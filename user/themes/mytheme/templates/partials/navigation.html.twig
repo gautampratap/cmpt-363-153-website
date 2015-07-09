@@ -1,0 +1,49 @@
+<div class="navbar-fixed">
+	<nav>
+		<div class="nav-wrapper container">
+			<a class="brand-logo" href="{{ base_url_absolute }}" >
+				{{site.title}}
+				</a>
+				<a href="#" data-activates="mobile-demo" class="button-collapse">
+					<i class="mdi mdi-menu"></i>
+				</a>
+
+				<ul class="right hide-on-med-and-down">
+					{% for page in pages.children.visible %}
+						{% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
+						<li class="{{ current_page }}">
+							<a href="{{ page.url }}">{{ page.menu }}</a>
+						</li>
+					{% endfor %}
+					{% for mitem in site.menu %}
+						<li>
+							<a class="newwindow" href="{{ mitem.url }}">
+								{% if mitem.icon %}
+									<i class="mdi mdi-{{ mitem.icon }}"></i>
+									<span>{{ mitem.text }}</span>
+								{% else %}
+									{{ mitem.text }}
+								{% endif %}
+							</a>
+						</li>
+					{% endfor %}
+				</ul>
+
+				<ul id="mobile-demo" class="side-nav">
+					{% for page in pages.children.visible %}
+						<li>
+							<a href="{{ page.url }}">{{ page.menu }}</a>
+						</li>
+					{% endfor %}
+					{% for mitem in site.menu %}
+						<li>
+							<a class="newwindow" href="{{ mitem.url }}">
+								{% if mitem.icon %}<i class="mdi mdi-{{ mitem.icon }}"></i>{% endif %}
+								{{ mitem.text }}
+							</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</nav>
+	</div>

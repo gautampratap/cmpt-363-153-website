@@ -1,0 +1,12 @@
+title: CMPT-363
+author:
+  name: Paul Hibbitts
+  email: 'paul@paulhibbitts.com'
+metadata:
+    description: 'CMPT-363-153 Course Companion'
+taxonomies: [category,tag,month]
+menu:
+    - text: Class Discussions
+      url: https://canvas.sfu.ca/courses/20703/discussion_topics
+    - text: 363 myBalsamiq
+      url: https://cmpt-363.mybalsamiq.com
