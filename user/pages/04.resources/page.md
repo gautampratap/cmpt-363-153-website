@@ -1,10 +1,6 @@
 ---
 title: Resources
 ---
-##### UX Communities of Practice
-*   [User Experience Stack Exchange](https://ux.stackexchange.com/)  
-*   [UX Community on Slack](http://www.designerhangout.co/)
-
 ##### UX Template Collections  
 *   [Templates & Downloadable Documents | Usability.gov](http://www.usability.gov/how-to-and-tools/resources/templates.html)
 *   [cxpartners | Resources](http://www.cxpartners.co.uk/ux-resources/)

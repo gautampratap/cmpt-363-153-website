@@ -6,7 +6,7 @@ metadata:
     description: 'CMPT-363-153 Course Companion'
 taxonomies: [category,tag,month]
 menu:
-    - text: Class Discussions
-      url: https://canvas.sfu.ca/courses/20703/discussion_topics
+    - text: Stack Exchange UX
+      url: https://ux.stackexchange.com/
     - text: 363 myBalsamiq
       url: https://cmpt-363.mybalsamiq.com
