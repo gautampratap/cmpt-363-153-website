@@ -171,7 +171,7 @@ ul.side-nav a {
 }
 
 .sidebar-content .btn {
-  padding-top: 0.1rem;
+  padding-top: 0.0rem !important;
   background-color: #676767 !important; }
   .btn:hover {
     background-color: #555555 !important; }
