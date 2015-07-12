@@ -17,7 +17,7 @@
 					{% endfor %}
 					{% for mitem in site.menu %}
 						<li>
-							<a class="newwindow" href="{{ mitem.url }}">
+							<a class="newwindow" href="{{ mitem.url }}" title="{{ mitem.title}}">
 								{% if mitem.icon %}
 									<i class="mdi mdi-{{ mitem.icon }}"></i>
 									<span>{{ mitem.text }}</span>
