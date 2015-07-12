@@ -10,3 +10,5 @@ menu:
       url: https://ux.stackexchange.com/
     - text: myBalsamiq
       url: https://cmpt-363.mybalsamiq.com
+    - icon: github-box
+      url: https://github.com/paulhibbitts/cmpt-363-153-website
