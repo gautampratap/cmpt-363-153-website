@@ -194,12 +194,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/maximebf/php-debugbar.git",
-            "reference": "e5d9c677175d147b72a05087b916dfd103e1df74"
+            "reference": "ab12b6f57dd33b1fffa875046fd17c34d88388b9"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/maximebf/php-debugbar/zipball/e5d9c677175d147b72a05087b916dfd103e1df74",
-            "reference": "e5d9c677175d147b72a05087b916dfd103e1df74",
+            "url": "https://api.github.com/repos/maximebf/php-debugbar/zipball/ab12b6f57dd33b1fffa875046fd17c34d88388b9",
+            "reference": "ab12b6f57dd33b1fffa875046fd17c34d88388b9",
             "shasum": ""
         },
         "require": {
@@ -215,7 +215,7 @@
             "monolog/monolog": "Log using Monolog",
             "predis/predis": "Redis storage"
         },
-        "time": "2015-06-07 19:27:13",
+        "time": "2015-07-09 18:15:09",
         "type": "library",
         "extra": {
             "branch-alias": {

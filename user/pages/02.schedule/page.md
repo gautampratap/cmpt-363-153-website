@@ -15,7 +15,7 @@ visible: true
 ##### Week 3 (Sep 28)
 <strong>Discover & Understand I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> User Research
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-video"></i></span> Conducting Interviews
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-account-outline"></i></span> Conducting Interviews
 
 ##### Week 4 (Oct 5)
 <strong>Discover & Understand II</strong>
@@ -31,7 +31,7 @@ visible: true
 ##### Week 7 (Oct 26)
 <strong>Conceptualize & Define II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Design Thinking
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-video"></i></span> Make Collaboration Happen, Even with Stubborn People
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-account-outline"></i></span> Make Collaboration Happen, Even with Stubborn People
 
 ##### Week 8 (Nov 2)
 <strong>Evaluate & Refine I</strong>
@@ -45,7 +45,7 @@ visible: true
 ##### Week 10 (Nov 16)
 <strong>Visualize & Prototype II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Visual Design Basics
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-video"></i></span> Hunches, Instincts, and Trusting Your Gut
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-account-outline"></i></span> Hunches, Instincts, and Trusting Your Gut
 
 ##### Week 11 (Nov 23)
 <strong>Evaluate & Refine II</strong>
