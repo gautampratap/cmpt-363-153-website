@@ -31,7 +31,7 @@ visible: true
 ##### Week 7 (Oct 26 - Nov 1)
 <strong>Conceptualize & Define II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Design Thinking
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-account-outline"></i></span> Make Collaboration Happen, Even with Stubborn People
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-star"></i></span> Design & Thinking Film
 
 ##### Week 8 (Nov 2 - 8)
 <strong>Evaluate & Refine I</strong>
