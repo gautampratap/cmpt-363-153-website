@@ -9,4 +9,4 @@ Any required preparations before each class will be posted here by Wednesday of 
 
 A summary of presented materials will usually be posted the day after class.
 
-Please send your comments and feedback to [paulh@sfu.ca](mailto:%20paulh@sfu.ca?subject=CMPT-363-143) or if you prefer use the [Anonymous Course Feedback](https://docs.google.com/a/paulhibbitts.com/forms/d/1hqysOUOg1NqxZiZkVac69LwIKxjFH5bO2J79IurUjrQ/viewform). If you are on Twitter, you can find Paul's professional account at [@hibbittsdesign](https://twitter.com/hibbittsdesign).
+Please send your comments and feedback to [paulh@sfu.ca](mailto:%20paulh@sfu.ca?subject=CMPT-363-143) or if you prefer use the [Anonymous Course Feedback](https://docs.google.com/a/paulhibbitts.com/forms/d/13BDqLUSadreMmDQGegAmhWIwt36D0RGSyUd9vKwsD-w/viewform). If you are on Twitter, you can find Paul's professional account at [@hibbittsdesign](https://twitter.com/hibbittsdesign).
