@@ -5,7 +5,7 @@ visible: true
 ##### Week 1 (Sep 14 - 20)
 <strong>Course Introduction</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Course Overview
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Intro to UX Design
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Introduction to UX Design
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Five Ways to Become a Better Team Player](http://www.forbes.com/sites/dorieclark/2012/03/28/five-ways-to-become-a-better-team-player/)
 
 ##### Week 2 (Sep 21 - 27)
@@ -45,7 +45,7 @@ visible: true
 ##### Week 10 (Nov 16 - 22)
 <strong>Visualize & Prototype II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Visual Design Basics
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-account-outline"></i></span> Hunches, Instincts, and Trusting Your Gut
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-account-outline"></i></span> Color: Designing for a Global User Experience
 
 ##### Week 11 (Nov 23 - 29)
 <strong>Evaluate & Refine II</strong>
