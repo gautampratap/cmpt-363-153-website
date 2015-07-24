@@ -2,6 +2,9 @@ absolute_urls: false                   # Absolute or relative URLs for `base_url
 timezone: ''                           # Valid values: http://php.net/manual/en/timezones.php
 param_sep: ':'                         # Parameter separator, use ';' for Apache on windows
 
+languages:
+    translations: true                 # Enable translations by default
+
 home:
   alias: '/home'                       # Default path for home, ie /
 
@@ -34,6 +37,7 @@ pages:
   expires: 604800                      # Page expires time in seconds (604800 seconds = 7 days)
   last_modified: false                 # Set the last modified date header based on file modifcation timestamp
   etag: false                          # Set the etag header tag
+  vary_accept_encoding: false          # Add `Vary: Accept-Encoding` header
   redirect_default_route: false        # Automatically redirect to a page's default route
 
 cache:
@@ -44,7 +48,6 @@ cache:
   prefix: 'g'                          # Cache prefix string (prevents cache conflicts)
   lifetime: 604800                     # Lifetime of cached data in seconds (0 = infinite)
   gzip: false                          # GZip compress the page output
-
 
 twig:
   cache: true                          # Set to true to enable twig caching

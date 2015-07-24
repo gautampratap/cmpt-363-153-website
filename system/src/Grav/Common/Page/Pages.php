@@ -622,10 +622,9 @@ class Pages
             }
         }
 
-        if (!empty($page_found)) {
+        if ($parent && !empty($page_found)) {
             $file = new \SplFileInfo($page_found);
-            $page->init($file);
-            $page->extension($page_extension);
+            $page->init($file, $page_extension);
 
             $content_exists = true;
 
@@ -639,7 +638,6 @@ class Pages
 
         /** @var \DirectoryIterator $file */
         foreach (new \FilesystemIterator($directory) as $file) {
-
             $name = $file->getFilename();
 
             if ($file->isFile()) {
