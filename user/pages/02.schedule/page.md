@@ -4,22 +4,28 @@ visible: true
 ---
 ##### Week 1 (Sep 14 - 20)
 <strong>Course Introduction</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Course Overview
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> Introduction to UX Design
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Five Ways to Become a Better Team Player](http://www.forbes.com/sites/dorieclark/2012/03/28/five-ways-to-become-a-better-team-player/)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [UX Topic Overview](https://canvas.sfu.ca/courses/22099/assignments/112757) assigned, due Dec 7
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Course Overview
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Introduction to UX Design
 
 ##### Week 2 (Sep 21 - 27)
 <strong>Design Process</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> The Process of UX Design
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [UI Analysis](https://canvas.sfu.ca/courses/22099/assignments/112756) assigned, due Sep 28
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> The Process of UX Design
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Usability 101: Introduction to Usability](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
 ##### Week 3 (Sep 28 - Oct 4)
 <strong>Discover & Understand I</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> User Research
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-account-outline"></i></span> Conducting Interviews
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> UI Analysis peer review assigned, due Oct 5
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> User Research
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Conducting Interviews (not available on-line)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Five Ways to Become a Better Team Player](http://www.forbes.com/sites/dorieclark/2012/03/28/five-ways-to-become-a-better-team-player/)
 
 ##### Week 4 (Oct 5 - 11)
 <strong>Discover & Understand II</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-presentation"></i></span> User Modelling and Stories of Usage
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Needsfinding and Exploratory Sketches](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Oct 26
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> User Modelling and Stories of Usage
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
 
 ##### Week 5 (Oct 12 - 18)
 <strong>Thanksgiving, No Class</strong>
