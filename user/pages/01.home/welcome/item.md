@@ -1,6 +1,6 @@
 ---
 title: Course Welcome
-date: 7/8/2015
+date: 08/01/2015
 continue_link: false
 ---
 Welcome to the multi-device friendly course companion for CMPT-363 Fall 2015. To help orientate yourself to the course, explore the [course syllabus](https://canvas.sfu.ca/courses/22099/assignments/syllabus) or  [detailed course plan](https://workflowy.com/s/kg4Cek6Syu).
