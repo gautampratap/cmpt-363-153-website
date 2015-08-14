@@ -7,7 +7,7 @@ published: false
 ---
 
 **Summaries and Questions**
-*   [Oct 5 (week 4) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
+*   [Oct 5th (week 4) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
 
 **Presented Slides**
 *   [User Modeling and Usage Stories Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)  
@@ -16,10 +16,10 @@ published: false
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions
-[Oct 5 (week 4) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
+[Oct 5th (week 4) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
 
 ##### Presented Slides  
-User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage/) | [PDF Slides](#))
+User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage/) | [PDF Slides](http://1drv.ms/1JXAlA5))
 
 <div class="row">
   <div class="col s10">
@@ -34,14 +34,16 @@ User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts
 [EZ-Write Persona Example](http://www.smashingmagazine.com/2014/08/06/a-closer-look-at-personas-part-1/) (via smashingmagazine.com/)
 [Empathy Map Persona Example](http://thesumbuddy.com/2014/04/05/2-useful-tools-understand-customer/) (via thesumbuddy.com/)  
 
-##### Required Readings  
+##### Required Reading  
 [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
 <div class="row"> <div class="col s10">
   <a class="embedly-card" href="http://www.cooper.com/journal/2014/05/persona-empathy-mapping">Persona Empathy Mapping</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>
 
-###### Supplemental Readings
+##### Supplemental Readings
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_empathy-maps')} %}  
+
+{% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_job-stories')} %}  
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_personas')} %}  
 

@@ -7,7 +7,7 @@ published: false
 ---
 
 **Summaries and Questions**
-*   [Sep 14 (week 1) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)
+*   [Sep 14th (week 1) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)
 
 **Presented Slides**
 *   [Course Overview Slides](http://slides.com/paulhibbitts/cmpt-363-153-course-overview/)  
@@ -15,8 +15,9 @@ published: false
 
 ===
 
+<style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions  
-[Sep 14 (week 1) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)  
+[Sep 14th (week 1) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)  
 
 ##### Presented Slides  
 Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-course-overview/) | [PDF Slides](http://1drv.ms/1Pazlbm))  
@@ -42,8 +43,14 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-in
 [Course Overview (PDF)](http://1drv.ms/1hAjhVT)   
 [Consent to Disclose Personal Information (PDF)](http://1drv.ms/1hAj9Wz)   
 
-##### Required Readings
-None  
+##### Suggested Reading  
+[Five Ways to Become a Better Team Player](http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/)  
+<div class="row">
+  <div class="col s10">
+    <a class="embedly-card" href="http://www.forbes.com/sites/dorieclark/2012/03/28/five-ways-to-become-a-better-team-player/">Five Ways to Become a Better Team Player</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+  </div>
+</div>  
 
 ##### Supplemental Readings
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_usability')} %}

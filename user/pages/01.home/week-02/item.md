@@ -7,7 +7,7 @@ published: false
 ---
 
 **Summaries and Questions**
-*   [Sep 21 (week 2) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)
+*   [Sep 21st (week 2) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)
 
 **Presented Slides**
 *   [The Process of UX Design Slides](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)
@@ -16,7 +16,7 @@ published: false
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions  
-[Sep 21 (week 2) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)  
+[Sep 21st (week 2) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)  
 
 ##### Presented Slides  
 The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design) | [PDF Slides](http://1drv.ms/1L9F9Ed))
@@ -32,7 +32,7 @@ The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-
 ##### Handouts  
 [Microsoft Product Reaction Cards (PDF)](https://onedrive.live.com/redir?resid=74D2D06DCB0AFD88!186925&authkey=!ANX9ZjlT88yPK9Q&ithint=file%2cpdf)  
 
-##### Required Readings  
+##### Required Reading  
 [Usability 101: Introduction to Usability](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 <div class="row">
   <div class="col s10">
@@ -41,7 +41,7 @@ The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-
 </div>
 </div>
 
-###### Supplemental Readings
+##### Supplemental Readings  
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_scenarios')} %}  
 
 Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

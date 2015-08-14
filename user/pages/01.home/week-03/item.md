@@ -6,19 +6,19 @@ process:
 published: false
 ---
 
-**Summaries and Questions**
-*   [Sep 28 (week 3) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)
+##### Summaries and Questions  
+*   [Sep 28th (week 3) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)
 
-**Presented Slides**
+##### Presented Slides  
 *   [User Research Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/)  
 
 ===
 
 <style>iframe.embedly-card{float:left;}</style>
-**Summaries and Questions**  
-[Sep 28 (week 3) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
+##### Summaries and Questions  
+[Sep 28th (week 3) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
 
-**Presented Slides**  
+##### Presented Slides  
 User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/) | [PDF Slides](http://1drv.ms/1EpSalj))
 
 <div class="row">
@@ -27,7 +27,7 @@ User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-re
   </div>
 </div>
 
-**Supplemental Videos**  
+##### Supplemental Video  
 [What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
 <div class="row">
   <div class="col s10">
@@ -35,7 +35,7 @@ User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-re
   </div>
 </div>
 
-**Required Readings**  
+##### Required Reading  
 [A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/)  
 <div class="row">
   <div class="col s10">
@@ -44,7 +44,7 @@ User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-re
   </div>
 </div>  
 
-###### Supplemental Readings
+##### Supplemental Readings
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_user-research-formal')} %}
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_contextual-inquiry')} %}  
