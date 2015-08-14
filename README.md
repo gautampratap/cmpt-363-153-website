@@ -4,7 +4,7 @@ This is the multi-device course companion for CMPT-363-153 User Interface Design
 
 # Grav ReadMe
 
-See [GRAV README](GRAVREADME)
+See [GRAV README](GRAVREADME.MD)
 
 # License
 
