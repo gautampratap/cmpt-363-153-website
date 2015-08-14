@@ -7,23 +7,23 @@ published: false
 ---
 
 **Summaries and Questions**
-*   [Class Wrap-up Poll](https://www.polleverywhere.com/free_text_polls/Q0uPhR1IK3F8v6I)
+*   [Sep 21 (week 2) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)
 
 **Presented Slides**
-*   [The Process of UX Design Slides](http://slides.com/paulhibbitts/cmpt-363-143-the-process-of-ux-design#/)
+*   [The Process of UX Design Slides](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)
 
 ===
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions  
-[Class Wrap-up Poll](https://www.polleverywhere.com/free_text_polls/Q0uPhR1IK3F8v6I)  
+[Sep 21 (week 2) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)  
 
 ##### Presented Slides  
-The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-143-the-process-of-ux-design) | [PDF Slides](https://onedrive.live.com/redir?resid=74D2D06DCB0AFD88!192200&authkey=!ADwIg-t-N2Duvic&ithint=file%2cpdf))  
+The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design) | [PDF Slides](http://1drv.ms/1L9F9Ed))
 
 <div class="row">
   <div class="col s10">
-  <div class="video-container"><iframe src="http://slid.es/paulhibbitts/cmpt-363-143-the-process-of-ux-design/embed" height="270" width="340" allowfullscreen="" frameborder="0" scrolling="no"></iframe></div>
+  <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 
@@ -44,4 +44,4 @@ The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-
 ###### Supplemental Readings
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_scenarios')} %}  
 
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resource-collections).  
+Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

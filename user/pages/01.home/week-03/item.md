@@ -7,23 +7,23 @@ published: false
 ---
 
 **Summaries and Questions**
-*   [Class Wrap-up Poll](https://www.polleverywhere.com/free_text_polls/AYto2ntzUuvVRSJ)
+*   [Sep 28 (week 3) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)
 
 **Presented Slides**
-*   [User Research Slides](http://slides.com/paulhibbitts/cmpt-363-143-the-process-of-ux-design#/)  
+*   [User Research Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/)  
 
 ===
 
 <style>iframe.embedly-card{float:left;}</style>
 **Summaries and Questions**  
-[Class Wrap-up Poll](https://www.polleverywhere.com/free_text_polls/AYto2ntzUuvVRSJ)  
+[Sep 28 (week 3) Class](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
 
 **Presented Slides**  
-User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-143-user-research#/) | [PDF Slides](https://onedrive.live.com/redir?resid=74D2D06DCB0AFD88!192198&authkey=!AH_RoDpR6UnN83I&ithint=file%2cpdf))
+User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/) | [PDF Slides](http://1drv.ms/1EpSalj))
 
 <div class="row">
   <div class="col s10">
-    <div class="video-container"><iframe src="http://slid.es/paulhibbitts/cmpt-363-143-user-research/embed" height="270" width="340" allowfullscreen="" frameborder="0" scrolling="no"></iframe></div>
+    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-user-research/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 
