@@ -6,7 +6,7 @@ You can view this site live at [cmpt-363-153.hibbittsdesign.com](cmpt-363-153.hi
 
 Special thanks to Andy Miller and everyone on the Grav team, the ever-helpful and supportive Grav community on [Gitter](https://gitter.im/getgrav/grav?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) and Bob Rockefeller, the author of the Grav [Materialize](https://github.com/bobrocke/grav-theme-materialize) theme.
 
-# Why GitHub?
+# Why Store a Course Companion on GitHub?
 
 By using a flat-file CMS (in this case Grav) and hosting the entire site on GitHub a whole new range of benefits are possible. For example, both code _and_ content can be edited utilizing version control. In addition, and perhaps more importantly, students can also collaboratively participate in the creation and evolution of the site during a course.
 
