@@ -44,4 +44,4 @@ title: Resources
 *   [Paul's Vimeo Channel](http://vimeo.com/channels/paulhibbitts)
 *   [Interaction Design Association Vimeo Channels](http://vimeo.com/ixdaglobal/channels)  
 
-Know of a great resource item or collection to add to this page? Send <paulh@sfu.ca> your suggestions.
+<p>Know of a great resource item or collection to add? <a href="https://github.com/paulhibbitts/cmpt-363-153-website/blob/master/user/pages/04.resources/page.md">Edit this page on <i class="mdi mdi-github-circle"></i>GitHub</a></p>
