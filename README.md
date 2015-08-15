@@ -8,7 +8,7 @@ Special thanks to Andy Miller and everyone on the Grav team, the ever-helpful an
 
 # Why Store a Course Companion on GitHub?
 
-By using a flat-file CMS (in this case Grav) and hosting the entire site on GitHub a whole new range of benefits are possible. For example, both code _and_ content can be quickly updated in various ways while utilizing version control. In addition, and perhaps more importantly, students can also collaboratively participate in the creation and evolution of the site during a course through the collaborative features provided by GitHub.
+By using a flat-file CMS (in this case Grav) and hosting the entire site on GitHub a whole new range of benefits are possible for both educators and students. For example, both code _and_ content can be quickly updated in various ways while utilizing version control. In addition, and perhaps more importantly, students can also collaboratively participate in the creation and evolution of their own course site through the collaborative features provided by GitHub.
 
 In a nutshell, it is about creating a learning environment that can be actively shaped by the learners within that environment. Mic drop.
 
