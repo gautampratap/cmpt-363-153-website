@@ -20,16 +20,34 @@ class Session extends \RocketTheme\Toolbox\Session\Session
         $uri = $this->grav['uri'];
         $config = $this->grav['config'];
 
-        if ($config->get('system.session.enabled')) {
+        $is_admin = false;
+
+        $session_timeout = $config->get('system.session.timeout', 1800);
+        $session_path = $config->get('system.session.path', '/' . ltrim($uri->rootUrl(false), '/'));
+
+        // Activate admin if we're inside the admin path.
+        if ($config->get('plugins.admin.enabled')) {
+            $route = $config->get('plugins.admin.route');
+            $base = '/' . trim($route, '/');
+            if (substr($uri->route(), 0, strlen($base)) == $base) {
+                $session_timeout = $config->get('plugins.admin.session.timeout', 1800);
+                $is_admin = true;
+            }
+        }
+
+        if ($config->get('system.session.enabled') || $is_admin) {
+
+
             // Define session service.
             parent::__construct(
-                $config->get('system.session.timeout', 1800),
-                $config->get('system.session.path', '/' . ltrim($uri->rootUrl(false), '/'))
+                $session_timeout,
+                $session_path
             );
 
-            $site_identifier = $config->get('site.title', 'unkown');
-            $this->setName($config->get('system.session.name', 'grav_site') . '_' . substr(md5($site_identifier), 0, 7));
+            $unique_identifier = GRAV_ROOT;
+            $this->setName($config->get('system.session.name', 'grav_site') . '_' . substr(md5($unique_identifier), 0, 7) . ($is_admin ? '_admin' : ''));
             $this->start();
+            setcookie(session_name(), session_id(), time() + $session_timeout, $session_path);
         }
     }
 }

@@ -159,6 +159,8 @@ class Grav extends Container
         $container->register(new StreamsServiceProvider);
         $container->register(new ConfigServiceProvider);
 
+        $container['inflector'] = new Inflector();
+
         $container['debugger']->stopTimer('_init');
 
         return $container;
@@ -172,8 +174,8 @@ class Grav extends Container
         // Initialize configuration.
         $debugger->startTimer('_config', 'Configuration');
         $this['config']->init();
-        $this['session']->init();
         $this['uri']->init();
+        $this['session']->init();
         $this['errors']->resetHandlers();
         $debugger->init();
         $this['config']->debug();
@@ -255,7 +257,7 @@ class Grav extends Container
             $this['session']->close();
         }
 
-        if ($this['uri']->isExternal($route)) {
+        if ($uri->isExternal($route)) {
             $url = $route;
         } else {
             $url = rtrim($uri->rootUrl(), '/') .'/'. trim($route, '/');
@@ -275,7 +277,6 @@ class Grav extends Container
     {
         /** @var Language $language */
         $language = $this['language'];
-        $config = $this['config'];
 
         if ($language->enabled()) {
             return $this->redirect($language->getLanguage() . $route, $code);
@@ -411,7 +412,7 @@ class Grav extends Container
     }
 
     /**
-     * This attempts to fine media, other files, and download them
+     * This attempts to find media, other files, and download them
      * @param $page
      * @param $path
      */

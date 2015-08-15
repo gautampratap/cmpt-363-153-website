@@ -56,6 +56,7 @@ class Page
     protected $items;
     protected $header;
     protected $frontmatter;
+    protected $language;
     protected $content;
     protected $summary;
     protected $raw_content;
@@ -127,6 +128,10 @@ class Page
         } else {
             $this->extension($extension);
         }
+
+        // Exract page language from page extension
+        $language = trim(basename($this->extension(), 'md'), '.') ?: null;
+        $this->language($language);
     }
 
     /**
@@ -217,6 +222,9 @@ class Page
             if (isset($this->header->title)) {
                 $this->title = trim($this->header->title);
             }
+            if (isset($this->header->language)) {
+                $this->language = trim($this->header->language);
+            }
             if (isset($this->header->template)) {
                 $this->template = trim($this->header->template);
             }
@@ -224,10 +232,10 @@ class Page
                 $this->menu = trim($this->header->menu);
             }
             if (isset($this->header->routable)) {
-                $this->routable = $this->header->routable;
+                $this->routable = (bool) $this->header->routable;
             }
             if (isset($this->header->visible)) {
-                $this->visible = $this->header->visible;
+                $this->visible = (bool) $this->header->visible;
             }
             if (isset($this->header->order_dir)) {
                 $this->order_dir = trim($this->header->order_dir);
@@ -245,7 +253,7 @@ class Page
                 $this->markdown_extra = (bool)$this->header->markdown_extra;
             }
             if (isset($this->header->taxonomy)) {
-                foreach ($this->header->taxonomy as $taxonomy => $taxitems) {
+                foreach ((array) $this->header->taxonomy as $taxonomy => $taxitems) {
                     $this->taxonomy[$taxonomy] = (array)$taxitems;
                 }
             }
@@ -253,12 +261,12 @@ class Page
                 $this->max_count = intval($this->header->max_count);
             }
             if (isset($this->header->process)) {
-                foreach ($this->header->process as $process => $status) {
-                    $this->process[$process] = $status;
+                foreach ((array) $this->header->process as $process => $status) {
+                    $this->process[$process] = (bool) $status;
                 }
             }
             if (isset($this->header->published)) {
-                $this->published = $this->header->published;
+                $this->published = (bool) $this->header->published;
             }
             if (isset($this->header->publish_date)) {
                 $this->publish_date = strtotime($this->header->publish_date);
@@ -270,15 +278,31 @@ class Page
                 $this->expires = intval($this->header->expires);
             }
             if (isset($this->header->etag)) {
-                $this->etag = (bool)$this->header->etag;
+                $this->etag = (bool) $this->header->etag;
             }
             if (isset($this->header->last_modified)) {
-                $this->last_modified = (bool)$this->header->last_modified;
+                $this->last_modified = (bool) $this->header->last_modified;
             }
 
         }
 
         return $this->header;
+    }
+
+    /**
+     * Get page language
+     *
+     * @param $var
+     *
+     * @return mixed
+     */
+    public function language($var = null)
+    {
+        if ($var !== null) {
+            $this->language = $var;
+        }
+
+        return $this->language;
     }
 
     /**
@@ -308,7 +332,7 @@ class Page
 
         // Return summary based on settings in site config file
         if (!$config['enabled']) {
-            return $content;
+            return $this->content();
         }
 
         // Set up variables to process summary from page or from custom summary
@@ -539,7 +563,7 @@ class Page
             return preg_replace($regex, '', $this->folder);
         }
         if ($name == 'type') {
-            return basename($this->name(), '.md');
+            return $this->template();
         }
         if ($name == 'media') {
             return $this->media()->all();
@@ -606,22 +630,6 @@ class Page
     }
 
     /**
-     * Get page extension
-     *
-     * @param $var
-     *
-     * @return mixed
-     */
-    public function extension($var = null)
-    {
-        if ($var !== null) {
-            $this->extension = $var;
-        }
-
-        return $this->extension;
-    }
-
-    /**
      * Save page if there's a file assigned to it.
      * @param bool $reorder Internal use.
      */
@@ -658,9 +666,12 @@ class Page
         if ($parent->path()) {
             $clone->path($parent->path() . '/' . $clone->folder());
         }
+
         // TODO: make sure we always have the route.
         if ($parent->route()) {
             $clone->route($parent->route() . '/'. $clone->slug());
+        } else {
+            $clone->route(self::getGrav()['pages']->root()->route() . '/'. $clone->slug());
         }
 
         return $clone;
@@ -693,7 +704,33 @@ class Page
         /** @var Pages $pages */
         $pages = self::getGrav()['pages'];
 
-        return $pages->blueprints($this->template());
+        $blueprint = $pages->blueprints($this->blueprintName());
+        $fields = $blueprint->fields();
+        $edit_mode = self::getGrav()['admin'] ? self::getGrav()['config']->get('plugins.admin.edit_mode') : null;
+
+        // override if you only want 'normal' mode
+        if (empty($fields) && ($edit_mode == 'auto' || $edit_mode == 'normal')) {
+            $blueprint = $pages->blueprints('default');
+        }
+
+        // override if you only want 'expert' mode
+        if (!empty($fields) && $edit_mode == 'expert') {
+            $blueprint = $pages->blueprints('');
+        }
+
+        return $blueprint;
+    }
+
+    /**
+     * Get the blueprint name for this page.  Use the blueprint form field if set
+     *
+     * @return string
+     */
+    public function blueprintName()
+    {
+        $blueprint_name = filter_input(INPUT_POST, 'blueprint', FILTER_SANITIZE_STRING) ?: $this->template();
+
+        return $blueprint_name;
     }
 
     /**
@@ -725,7 +762,7 @@ class Page
     public function extra()
     {
         $blueprints = $this->blueprints();
-        return $blueprints->extra($this->toArray(), 'header.');
+        return $blueprints->extra($this->toArray()['header'], 'header.');
     }
 
     /**
@@ -824,9 +861,26 @@ class Page
             $this->template = $var;
         }
         if (empty($this->template)) {
-            $this->template = ($this->modular() ? 'modular/' : '') . str_replace($this->extension, '', $this->name());
+            $this->template = ($this->modular() ? 'modular/' : '') . str_replace($this->extension(), '', $this->name());
         }
         return $this->template;
+    }
+
+    /**
+     * Gets and sets the extension field.
+     *
+     * @param null $var
+     * @return null|string
+     */
+    public function extension($var = null)
+    {
+        if ($var !== null) {
+            $this->extension = $var;
+        }
+        if (empty($this->extension)) {
+            $this->extension = '.' . pathinfo($this->name(), PATHINFO_EXTENSION);
+        }
+        return $this->extension;
     }
 
     /**
@@ -1004,38 +1058,34 @@ class Page
         // if not metadata yet, process it.
         if (null === $this->metadata) {
             $header_tag_http_equivs = ['content-type', 'default-style', 'refresh'];
-            $this->metadata = array();
-            $page_header = $this->header;
+
+            $this->metadata = [];
 
             // Set the Generator tag
             $this->metadata['generator'] = array('name'=>'generator', 'content'=>'GravCMS ' . GRAV_VERSION);
 
-            // Safety check to ensure we have a header
-            if ($page_header) {
+            // Get initial metadata for the page
+            $metadata  = self::getGrav()['config']->get('site.metadata');
+
+            if (isset($this->header->metadata)) {
                 // Merge any site.metadata settings in with page metadata
-                $defaults = (array) self::getGrav()['config']->get('site.metadata');
+                $metadata = array_merge($metadata, $this->header->metadata);
+            }
 
-                if (isset($page_header->metadata)) {
-                    $page_header->metadata = array_merge($defaults, $page_header->metadata);
+            // Build an array of meta objects..
+            foreach ((array)$metadata as $key => $value) {
+                // If this is a property type metadata: "og", "twitter", "facebook" etc
+                if (is_array($value)) {
+                    foreach ($value as $property => $prop_value) {
+                        $prop_key =  $key.":".$property;
+                        $this->metadata[$prop_key] = array('property'=>$prop_key, 'content'=>htmlspecialchars($prop_value, ENT_QUOTES));
+                    }
+                // If it this is a standard meta data type
                 } else {
-                    $page_header->metadata = $defaults;
-                }
-
-                // Build an array of meta objects..
-                foreach ((array)$page_header->metadata as $key => $value) {
-                    // If this is a property type metadata: "og", "twitter", "facebook" etc
-                    if (is_array($value)) {
-                        foreach ($value as $property => $prop_value) {
-                            $prop_key =  $key.":".$property;
-                            $this->metadata[$prop_key] = array('property'=>$prop_key, 'content'=>htmlspecialchars($prop_value, ENT_QUOTES));
-                        }
-                    // If it this is a standard meta data type
+                    if (in_array($key, $header_tag_http_equivs)) {
+                        $this->metadata[$key] = array('http_equiv'=>$key, 'content'=>htmlspecialchars($value, ENT_QUOTES));
                     } else {
-                        if (in_array($key, $header_tag_http_equivs)) {
-                            $this->metadata[$key] = array('http_equiv'=>$key, 'content'=>htmlspecialchars($value, ENT_QUOTES));
-                        } else {
-                            $this->metadata[$key] = array('name'=>$key, 'content'=>htmlspecialchars($value, ENT_QUOTES));
-                        }
+                        $this->metadata[$key] = array('name'=>$key, 'content'=>htmlspecialchars($value, ENT_QUOTES));
                     }
                 }
             }
@@ -1172,6 +1222,15 @@ class Page
         }
 
         return $this->route;
+    }
+
+    /**
+     * Helper method to clear the route out so it regenerates next time you use it
+     */
+    public function unsetRoute()
+    {
+        unset($this->route);
+
     }
 
     public function rawRoute($var = null)
@@ -1884,7 +1943,7 @@ class Page
      */
     protected function doRelocation($reorder)
     {
-        if (empty($this->_original)) {
+        if (empty($this->_original) ) {
             return;
         }
 
