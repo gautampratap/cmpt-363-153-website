@@ -8,7 +8,7 @@ title: Resources
 
 ##### UX Design Checklists  
 *   [Mobile UX Checklist (PDF, by Mobify)](http://www.mobify.com/static/downloads/mobile-ux-checklist-mobify.pdf)  
-*   [One-Page Touch Interaction Design Checklist (PDF)](https://onedrive.live.com/redir?resid=74D2D06DCB0AFD88!202379&authkey=!ANlMFzNiMRh3aNk&ithint=file%2cpdf)
+*   [One-Page Touch Interaction Design Checklist (PDF)](http://1drv.ms/1Ko1GHJ)
 *   [Usability checklist (Userium)](https://userium.com/)
 *   [UX Project Checklist](http://uxchecklist.github.io/)
 
