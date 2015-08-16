@@ -3,7 +3,7 @@ title: Week 1 Materials
 date: 09/14/2015
 process:
     twig: true
-published: false
+published: true
 ---
 
 **Summaries and Questions**
@@ -57,6 +57,4 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-in
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_user-centered-design')} %}
 
-{% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_user-experience-design')} %}
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  
+{% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_user-experience-design')} %} 
