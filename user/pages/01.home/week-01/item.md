@@ -26,7 +26,7 @@ Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slide
   <div class="col s10">
   <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-placeholder/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
-  </div>
+</div>
 
 Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-placeholder) | [PDF Slides](http://1drv.ms/1IW9P5W))  
 
