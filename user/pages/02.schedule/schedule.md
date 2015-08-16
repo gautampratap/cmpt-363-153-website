@@ -71,5 +71,3 @@ visible: true
 ##### Week 13 (Dec 7)
 <strong>Course Wrap-up</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Course Wrap-up
-
-<p>Do you see any errors in the course schedule? <a href="https://github.com/paulhibbitts/cmpt-363-153-website/blob/master/user/pages/02.schedule/page.md">Edit this page on <i class="mdi mdi-github-circle"></i>GitHub</a></p>
