@@ -1,15 +1,23 @@
-# Grav Blog Site Skeleton
+# CMPT-363-153 User Interface Design Course Companion
 
-The *Blog Site* skeleton is a [Grav](http://github.com/getgrav/grav) skeleton and includes a *user* folder giving an example of a blog set up using Grav.
+[![Join the chat at https://gitter.im/paulhibbitts/cmpt-363-153-website](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/paulhibbitts/cmpt-363-153-website?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# Installation
+This is the multi-device course companion for the Fall 2015 offering of [CMPT-363-153 User Interface Design](https://portal.cs.sfu.ca/portal/outlines/1157-CMPT-363-E100/), built with love using [Grav CMS](http://www.getgrav.org) and taught by [Paul D Hibbitts](http://www.paulhibbitts.com) at [Simon Fraser University](http://www.sfu.ca) in Vancouver, Canada.
 
-To install this package, you will essentially be replacing the default `user` folder with the skeleton. To do this, download the zip version of this repository and unzip it under `/your/site/grav/`. Then, rename the folder to `user`. 
+You can view this site live at [cmpt-363-153.hibbittsdesign.com](cmpt-363-153.hibbittsdesign.com)
 
-If a user folder already exists, back up the folder to a safe place, delete it (if there is no custom content in it you wish to keep) or replace its contents with the files in the unzipped folder.
+Special thanks to Andy Miller and everyone on the Grav team, the ever-helpful and supportive Grav community on [Gitter](https://gitter.im/getgrav/grav?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) and Bob Rockefeller, the author of the Grav [Materialize](https://github.com/bobrocke/grav-theme-materialize) theme.
 
-You should now have all the skeleton files under
+# Why Store a Course Companion on GitHub?
 
-	/your/site/grav/user/
+By using a flat-file CMS (in this case Grav) and hosting the entire site on GitHub a whole new range of benefits are possible for both educators and students. For example, both code _and_ content can be quickly updated in various ways while utilizing version control. In addition, and perhaps more importantly, students can also collaboratively participate in the creation and evolution of their own course site through the collaborative features provided by GitHub.
 
->> NOTE: This skeleton is a modular component for Grav which requires [Grav](http://github.com/getgrav/grav), the [Error](https://github.com/getgrav/grav-plugin-error) and [Problems](https://github.com/getgrav/grav-plugin-problems) plugins, and a theme to be installed in order to operate. If you download this skeleton as part of a pre-assembled package from [GetGrav.org](http://getgrav.org/downloads/skeletons#extras), you should have everything you need to get started.
+In a nutshell, it is about creating a learning environment that can be actively shaped by the learners within that environment. Mic drop.
+
+# Grav ReadMe
+
+See [GRAV README](GRAVREADME.md)
+
+# License
+
+See [LICENSE](LICENSE)
