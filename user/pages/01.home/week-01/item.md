@@ -20,7 +20,7 @@ published: true
 [Sep 14th (week 1) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)  
 
 ##### Presented Slides  
-Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/) | [PDF Slides](http://1drv.ms/1IW9P5W))  
+Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/) | [PDF Slides](http://1drv.ms/1TNqz4z))  
 
 <div class="row">
   <div class="col s10">
@@ -28,7 +28,7 @@ Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slide
   </div>
 </div>
 
-Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress) | [PDF Slides](http://1drv.ms/1IW9P5W))  
+Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress) | [PDF Slides](http://1drv.ms/1TNqz4z))  
 
 <div class="row">
   <div class="col s10">
