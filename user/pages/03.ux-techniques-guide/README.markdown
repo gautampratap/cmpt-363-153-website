@@ -4,4 +4,4 @@
 2.  Make your suggested changes to the .md file within the relevant topic folder
 3.  Open a Pull Request
 
-If you are using the GitHub Desktop client, checkout the included tutorial which includes all the above steps.
+If you are using the GitHub Desktop client, checkout the included tutorial which walks through all the above steps.
