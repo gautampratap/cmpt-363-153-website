@@ -4,4 +4,4 @@
 2.  Make your suggested changes to the resources.md file
 3.  Open a Pull Request
 
-Want to proceed right now? Start [editing the resources.md file now](https://github.com/paulhibbitts/cmpt-363-153-website/edit/master/user/pages/04.resources/resources.md) and automatically create a Fork. If you are using the GitHub Desktop client, checkout the included tutorial which includes all the above steps.
+Want to proceed right away? Start [editing the resources.md file now](https://github.com/paulhibbitts/cmpt-363-153-website/edit/master/user/pages/04.resources/resources.md) and automatically create a Fork. If you are using the GitHub Desktop client, checkout the included tutorial which includes all the above steps.
