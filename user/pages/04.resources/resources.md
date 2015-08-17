@@ -7,6 +7,7 @@ title: Resources
 *   [The PM Toolkit](http://thepmtoolkit.com/)
 
 ##### UX Design Checklists  
+*   [A Checklist for Designing Mobile Input Fields](http://www.nngroup.com/articles/mobile-input-checklist/)  
 *   [Mobile UX Checklist (PDF, by Mobify)](http://www.mobify.com/static/downloads/mobile-ux-checklist-mobify.pdf)  
 *   [One-Page Touch Interaction Design Checklist (PDF)](http://1drv.ms/1Ko1GHJ)
 *   [Usability checklist (Userium)](https://userium.com/)
