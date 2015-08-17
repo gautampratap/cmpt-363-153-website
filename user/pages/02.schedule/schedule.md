@@ -2,7 +2,7 @@
 title: Schedule
 visible: true
 ---
-##### Week 1 (Sep 14 - 20)
+##### [Week 1 (Sep 14 - 20)](/home/week-01)
 <strong>Course Introduction</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [UX Topic Overview](https://canvas.sfu.ca/courses/22099/assignments/112757) assigned, due Dec 7
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Course Overview
