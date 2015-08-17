@@ -16,8 +16,8 @@ In a nutshell, it is about creating a learning environment that can be actively 
 
 # Grav ReadMe
 
-See [GRAV README](GRAVREADME.md)
+See [GRAV README](https://github.com/paulhibbitts/cmpt-363-153-website/blob/master/GRAVREADME.md)
 
 # License
 
-See [LICENSE](LICENSE)
+See [LICENSE](https://github.com/paulhibbitts/cmpt-363-153-website/blob/master/LICENSE)
