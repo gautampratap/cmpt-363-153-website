@@ -32,7 +32,7 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-sl
 
 <div class="row">
   <div class="col s10">
-  <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-placeholder/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-introduction-to-ux/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 
