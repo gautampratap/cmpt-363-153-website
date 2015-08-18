@@ -1,7 +1,7 @@
 # Want to Propose a New Article to the UX Techniques Guide Page?
 
-1.  Fork the Respository (GitHub account required)
-2.  Make your suggested changes to the .md file within the relevant topic folder
-3.  Open a Pull Request
+1.  Open the folder containing the topic you wish to make suggestions for
+2.  View the topic.md file within that folder
+3.  Click on the edit button (pencil icon) in the upper right corner
 
-If you are using the GitHub Desktop client, checkout the included tutorial which walks through all the above steps.
+Want additional guidance? View the support documentation for [Editing files in your repository](https://help.github.com/articles/editing-files-in-your-repository/)
