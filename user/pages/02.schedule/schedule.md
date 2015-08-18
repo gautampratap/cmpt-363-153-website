@@ -1,6 +1,5 @@
 ---
 title: Schedule
-visible: true
 ---
 ##### [Week 1 (Sep 14 - 20)](/home/week-01)
 <strong>Course Introduction</strong>

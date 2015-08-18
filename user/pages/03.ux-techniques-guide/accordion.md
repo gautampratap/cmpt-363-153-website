@@ -1,4 +1,4 @@
 ---
 title: UX Techniques Guide
-menu: UX Techniques Guide
 ---
+<!--- Content for this page is pulled in from page subfolders -->
