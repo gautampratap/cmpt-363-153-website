@@ -1,6 +1,6 @@
 ---
 title: Week 1 Materials
-date: 09/14/2015
+date: 08/22/2015
 process:
     twig: true
 published: true
