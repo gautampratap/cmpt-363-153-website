@@ -19,7 +19,7 @@
                 {{ item.content|truncate(collection.params.length)|striptags|e }}
             </description>
             <category>{{ item.taxonomy.tag|join(',') }}</category>
-            <guid>{{ item.url(true) }}</guid>
+            <guid isPermaLink="false">{{ item.url(true) ~ item.date }}</guid>
             <pubDate>{{ item.date|date('D, d M Y H:i:s O') }}</pubDate>
         </item>
         {% endfor %}
