@@ -1,9 +1,9 @@
 ---
 title: Week 2 Materials
-date: 08/22/2015
+date: 09/21/2015
 process:
     twig: true
-published: true
+published: false
 ---
 
 **Summaries and Questions**
