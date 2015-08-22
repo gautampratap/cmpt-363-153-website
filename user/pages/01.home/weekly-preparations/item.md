@@ -1,6 +1,6 @@
 ---
 title: Week One Preparations
-date: 08/20/2015
+date: 08/23/2015
 taxonomy:
   tag: [preparation]
 reading:
