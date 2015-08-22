@@ -1,7 +1,7 @@
 {% set collection = collection|default(page.collection) %}
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>{{ "CMPT 363" }}</title>
+    <title>{{ 'CMPT 363' }}</title>
     <link href="{{ uri.url(true) }}.{{ uri.extension() }}" rel="self" />
     <subtitle>{{ collection.params.description }}</subtitle>
     <updated>{{ collection|first.date|date("Y-m-d\\TH:i:sP") }}</updated>
