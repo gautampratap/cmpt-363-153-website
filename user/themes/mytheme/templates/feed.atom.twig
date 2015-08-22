@@ -8,12 +8,12 @@
     <author>
         <name>{{ site.author.name|default("Grav User") }}</name>
     </author>
-    <id>{{ uri.rootUrl(true) }}{{ uri.route() ~ item.date }}</id>
+    <id>{{ uri.rootUrl(true) }}{{ uri.route() }}</id>
     {% for item in collection %}
     {% set banner = item.media.images|first %}
     <entry>
         <title>{{ item.title|e }}</title>
-        <id>{{ item.url(true) }}</id>
+        <id>{{ item.url(true) ~ item.date}}</id>
         <updated>{{ item.date|date("Y-m-d\\TH:i:sP") }}</updated>
         <published>{{ item.date|date("Y-m-d\\TH:i:sP") }}</published>
         <link href="{{ item.url(true) }}"/>
