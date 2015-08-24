@@ -36,7 +36,6 @@ title: Schedule
 
 ##### Week 7 (Oct 26 - Nov 1)
 <strong>Conceptualize & Define II</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Design Thinking
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Design & Thinking Film (not available on-line)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Demystifying Design Thinking](http://thinkjarcollective.com/interviews/demystifying-design-thinking-interview-tamara-christensen/)
 
