@@ -54,7 +54,7 @@ title: Schedule
 ##### Week 10 (Nov 16 - 22)
 <strong>Visualize & Prototype II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Basics
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Color: Designing for a Global User Experience (not available on-line)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Essentials for Non-Designers (not available on-line)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Impact of Aesthetics on Attitudes Towards Websites](http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html)
 
 ##### Week 11 (Nov 23 - 29)
