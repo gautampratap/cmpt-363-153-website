@@ -40,16 +40,16 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Demystifying Design Thinking](http://thinkjarcollective.com/interviews/demystifying-design-thinking-interview-tamara-christensen/)
 
 ##### Week 8 (Nov 2 - 8)
-<strong>Evaluate & Refine I</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Nov 23
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Usability Testing
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
-
-##### Week 9 (Nov 9 - 15)
 <strong>Visualize & Prototype I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> HCI and Interface Design Principles
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Mobile and Multi-device Design
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)
+
+##### Week 9 (Nov 9 - 15)
+<strong>Evaluate & Refine I</strong>
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Nov 23
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Usability Testing
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
 
 ##### Week 10 (Nov 16 - 22)
 <strong>Visualize & Prototype II</strong>
