@@ -37,8 +37,7 @@ title: Schedule
 ##### Week 7 (Oct 26 - Nov 1)
 <strong>Visualize & Prototype I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> HCI and Interface Design Principles
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Mobile and Multi-device Design
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The best interface is no interface](http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface)
 
 ##### Week 8 (Nov 2 - 8)
 <strong>Evaluate & Refine I</strong>
@@ -47,12 +46,12 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
 
 ##### Week 9 (Nov 9 - 15)
-<strong>Conceptualize & Define II</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Design & Thinking Film (not available on-line)
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Demystifying Design Thinking](http://thinkjarcollective.com/interviews/demystifying-design-thinking-interview-tamara-christensen/)
+<strong>Visualize & Prototype II</strong>
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Mobile and Multi-device Design
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)
 
 ##### Week 10 (Nov 16 - 22)
-<strong>Visualize & Prototype II</strong>
+<strong>Visualize & Prototype III</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Basics
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Essentials for Non-Designers (not available on-line)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Impact of Aesthetics on Attitudes Towards Websites](http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html)
