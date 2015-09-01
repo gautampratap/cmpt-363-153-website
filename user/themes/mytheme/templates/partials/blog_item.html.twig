@@ -3,14 +3,14 @@
 	<div class="list-blog-header">
 
 		{% if page.header.link %}
-			<h4>
+			<h5>
 				{% if page.header.continue_link is not sameas(false) %}
 					<a href="{{ page.url }}"><i class="mdi mdi-share"></i></a>
 				{% endif %}
 				<a href="{{ page.header.link }}">{{ page.title }}</a>
-			</h4>
+			</h5>
 		{% else %}
-			<h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
+			<h5><a href="{{ page.url }}">{{ page.title }}</a></h5>
 		{% endif %}
 
 		{#
