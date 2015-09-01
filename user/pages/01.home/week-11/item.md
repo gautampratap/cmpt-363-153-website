@@ -1,7 +1,7 @@
 ---
 title: Week 11 Materials
 date: 11/23/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

@@ -1,7 +1,7 @@
 ---
 title: Week 6 Materials
 date: 10/19/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

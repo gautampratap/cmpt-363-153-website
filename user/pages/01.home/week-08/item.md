@@ -1,7 +1,7 @@
 ---
 title: Week 8 Materials
 date: 11/02/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

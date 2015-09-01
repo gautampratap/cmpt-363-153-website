@@ -1,7 +1,7 @@
 ---
 title: Week 9 Materials
 date: 11/9/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

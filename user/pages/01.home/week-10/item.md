@@ -1,7 +1,7 @@
 ---
 title: Week 10 Materials
 date: 11/16/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

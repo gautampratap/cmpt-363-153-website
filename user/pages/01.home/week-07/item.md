@@ -1,7 +1,7 @@
 ---
 title: Week 7 Materials
 date: 10/26/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

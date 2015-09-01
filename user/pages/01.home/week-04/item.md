@@ -1,7 +1,7 @@
 ---
 title: Week 4 Materials
 date: 10/05/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

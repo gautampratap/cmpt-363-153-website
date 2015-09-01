@@ -1,7 +1,7 @@
 ---
 title: Week 3 Materials
 date: 09/28/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true

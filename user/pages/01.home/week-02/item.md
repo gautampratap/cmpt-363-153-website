@@ -1,7 +1,7 @@
 ---
 title: Week 2 Materials
 date: 09/21/2015
-icon: calendar
+icon: calendar-blank
 process:
     twig: true
 published: true
