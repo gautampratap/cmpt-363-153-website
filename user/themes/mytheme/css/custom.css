@@ -1,3 +1,8 @@
+.pagination li.active {
+    background-color: #8B0023 !important;
+    color: #FFFFFF; !important;
+}
+
 .list-blog-header {
   position: relative; }
   .list-blog-header h4 {
@@ -190,7 +195,7 @@ ul.side-nav a {
   padding-top: 0.1rem;
   background-color: #8E142F !important; }
   .btn:hover {
-    background-color: #E0D10A !important; }
+    background-color: #0084b4 !important; }
 
 a.btn {
     vertical-align: middle; }

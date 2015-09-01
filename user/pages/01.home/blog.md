@@ -14,8 +14,8 @@ content:
   order:
         by: date
         dir: desc
-  limit: 100
-  pagination: false
+  limit: 8
+  pagination: true
 
 
 feed:
