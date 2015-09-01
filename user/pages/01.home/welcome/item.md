@@ -1,5 +1,5 @@
 ---
-title: Course Welcome
+title: <i class="mdi mdi-human"></i> Course Welcome
 date: 08/01/2015
 continue_link: false
 ---

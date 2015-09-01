@@ -1,16 +1,16 @@
 ---
-title: Week 4 Materials
+title: <i class="mdi mdi-calendar"></i> Week 4 Materials
 date: 10/05/2015
 process:
     twig: true
-published: false
+published: true
 ---
 
-**Summaries and Questions**
+##### Summaries and Questions
 *   [Oct 5th (week 4) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
 
-**Presented Slides**
-*   [User Modeling and Usage Stories Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)  
+##### Presented Slides
+*   [User Modeling and Usage Stories Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
 
 ===
 
@@ -19,11 +19,11 @@ published: false
 [Oct 5th (week 4) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
 
 ##### Presented Slides  
-User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage/) | [PDF Slides](http://1drv.ms/1JXAlA5))
+User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
 
 <div class="row">
   <div class="col s10">
-    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
     </div>
   </div>
 

@@ -1,16 +1,16 @@
 ---
-title: Week 2 Materials
+title: <i class="mdi mdi-calendar"></i> Week 2 Materials
 date: 09/21/2015
 process:
     twig: true
-published: false
+published: true
 ---
 
-**Summaries and Questions**
+##### Summaries and Questions
 *   [Sep 21st (week 2) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)
 
-**Presented Slides**
-*   [The Process of UX Design Slides](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)
+##### Presented Slides
+*   [The Process of UX Design Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)
 
 ===
 
@@ -19,11 +19,11 @@ published: false
 [Sep 21st (week 2) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)  
 
 ##### Presented Slides  
-The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design) | [PDF Slides](http://1drv.ms/1L9F9Ed))
+The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
 
 <div class="row">
   <div class="col s10">
-  <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 

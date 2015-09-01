@@ -1,5 +1,5 @@
 ---
-title: Week One Preparations
+title: <i class="mdi mdi-checkbox-marked"></i> Week One Preparations
 date: 08/15/2015
 taxonomy:
   tag: [preparation]

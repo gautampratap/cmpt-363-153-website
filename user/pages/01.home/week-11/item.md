@@ -1,0 +1,44 @@
+---
+title: <i class="mdi mdi-calendar"></i> Week 11 Materials
+date: 11/23/2015
+process:
+    twig: true
+published: true
+---
+
+##### Summaries and Questions
+*   [Nov 16th (week 10) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
+
+##### Presented Slides
+*   [User Interface Inspections](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
+
+===
+
+<style>iframe.embedly-card{float:left;}</style>
+##### Summaries and Questions
+[Nov 16th (week 10) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
+
+##### Presented Slides  
+User Interface Inspections ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
+
+<div class="row">
+  <div class="col s10">
+    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    </div>
+  </div>
+
+##### Handouts  
+TBD
+
+##### Required Reading  
+[What You Really Get From a Heuristic Evaluation](https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation)
+<div class="row"> <div class="col s10">
+  <a class="embedly-card" href="https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation">What You Really Get From a Heuristic Evaluation</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>
+
+##### Supplemental Readings
+{% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_cognitive-walkthroughs')} %}  
+
+{% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_heuristic-evaluations')} %}  
+
+Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

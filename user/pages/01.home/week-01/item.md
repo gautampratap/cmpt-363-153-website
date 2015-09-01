@@ -1,15 +1,15 @@
 ---
-title: Week 1 Materials
+title: <i class="mdi mdi-calendar"></i> Week 1 Materials
 date: 08/22/2015
 process:
     twig: true
 published: true
 ---
 
-**Summaries and Questions**
+##### Summaries and Questions
 *   [Sep 14th (week 1) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)
 
-**Presented Slides**
+##### Presented Slides
 *   [Course Overview Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/)  
 *   [Introduction to UX Design Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/)
 
