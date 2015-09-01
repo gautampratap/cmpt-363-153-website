@@ -1,5 +1,5 @@
 ---
-title: Week One Preparations
+title: Week 1 Preparations
 date: 08/15/2015
 icon: alarm-check
 taxonomy:
