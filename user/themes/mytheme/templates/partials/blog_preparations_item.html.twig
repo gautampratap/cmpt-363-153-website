@@ -10,7 +10,7 @@
 				<a href="{{ page.header.link }}">{{ page.title }}</a>
 			</h5>
 		{% else %}
-			<h5><a href="{{ page.url }}">{{ page.title }}</a></h5>
+			<h5><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h5>
 		{% endif %}
 
 		{#

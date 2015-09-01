@@ -1,6 +1,7 @@
 ---
-title: <i class="mdi mdi-checkbox-marked"></i> Week One Preparations
+title: Week One Preparations
 date: 08/15/2015
+icon: alarm-check
 taxonomy:
   tag: [preparation]
 reading:

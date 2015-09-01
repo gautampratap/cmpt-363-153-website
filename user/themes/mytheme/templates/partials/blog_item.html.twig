@@ -10,7 +10,7 @@
 				<a href="{{ page.header.link }}">{{ page.title }}</a>
 			</h5>
 		{% else %}
-			<h5><a href="{{ page.url }}">{{ page.title }}</a></h5>
+			<h5><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h5>
 		{% endif %}
 
 		{#
@@ -47,11 +47,9 @@
 			<p>{{ page.content|truncate(550) }}</p>
 			<p><a href="{{ page.url }}">View all Materials <i class="mdi mdi-chevron-double-right"></a></p><br>
 		{% else %}
-		{% set content = page.content|slice(page.summary|length) %}
-
-		<p>{{ content }}</p>
-
-	  {% set show_prev_next = true %}
+		  {% set content = page.content|slice(page.summary|length) %}
+		  <p>{{ content }}</p>
+	    {% set show_prev_next = true %}
 		{% endif %}
 
 		<div class="divider"></div>

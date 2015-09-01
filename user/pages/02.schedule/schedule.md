@@ -34,7 +34,7 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Conceptual Models
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Conceptual Models: Begin by Designing What to Design, ACM](https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962)
 
-##### v Week 7 (Oct 26 - Nov 1)
+##### <i class="mdi mdi-calendar"></i> Week 7 (Oct 26 - Nov 1)
 <strong>Visualize & Prototype I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> HCI and Interface Design Principles
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The best interface is no interface](http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface)

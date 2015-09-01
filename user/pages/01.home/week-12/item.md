@@ -1,6 +1,7 @@
 ---
-title: <i class="mdi mdi-calendar"></i> Week 12 Materials
+title: Week 12 Materials
 date: 11/30/2015
+icon: calendar
 continue_link: false
 published: true
 ---

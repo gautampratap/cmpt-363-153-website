@@ -1,6 +1,7 @@
 ---
-title: <i class="mdi mdi-calendar"></i> Week 5 Materials
+title: Week 5 Materials
 date: 10/12/2015
+icon: calendar
 continue_link: false
 published: true
 ---

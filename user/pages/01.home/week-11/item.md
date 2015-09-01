@@ -1,6 +1,7 @@
 ---
-title: <i class="mdi mdi-calendar"></i> Week 11 Materials
+title: Week 11 Materials
 date: 11/23/2015
+icon: calendar
 process:
     twig: true
 published: true

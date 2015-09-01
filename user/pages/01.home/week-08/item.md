@@ -1,6 +1,7 @@
 ---
-title: <i class="mdi mdi-calendar"></i> Week 8 Materials
+title: Week 8 Materials
 date: 11/02/2015
+icon: calendar
 process:
     twig: true
 published: true

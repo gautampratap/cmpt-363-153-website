@@ -1,6 +1,7 @@
 ---
-title: <i class="mdi mdi-calendar"></i> Week 9 Materials
+title: Week 9 Materials
 date: 11/9/2015
+icon: calendar
 process:
     twig: true
 published: true
