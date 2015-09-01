@@ -1,5 +1,5 @@
 ---
-title: Week 9 Materials
+title: Week 9 (Nov 16 - 22)
 date: 11/9/2015
 icon: calendar-blank
 process:

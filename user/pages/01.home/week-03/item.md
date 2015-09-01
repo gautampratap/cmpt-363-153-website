@@ -1,10 +1,10 @@
 ---
-title: Week 3 Materials
+title: Week 3 (Sep 28 - Oct 4)
 date: 09/28/2015
 icon: calendar-blank
 process:
     twig: true
-published: true
+published: false
 ---
 
 ##### Summaries and Questions  

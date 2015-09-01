@@ -1,5 +1,5 @@
 ---
-title: Week 11 Materials
+title: Week 11 (Nov 30 - Dec 6)
 date: 11/23/2015
 icon: calendar-blank
 process:

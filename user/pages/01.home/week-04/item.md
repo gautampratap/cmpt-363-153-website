@@ -1,10 +1,10 @@
 ---
-title: Week 4 Materials
+title: Week 4 (Oct 5 - 11)
 date: 10/05/2015
 icon: calendar-blank
 process:
     twig: true
-published: true
+published: false
 ---
 
 ##### Summaries and Questions

@@ -1,5 +1,5 @@
 ---
-title: Week 5 Materials
+title: Week 5 (Oct 12 - 18)
 date: 10/12/2015
 icon: calendar-blank
 continue_link: false

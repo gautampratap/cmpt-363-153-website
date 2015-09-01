@@ -1,5 +1,5 @@
 ---
-title: Week 10 Materials
+title: Week 10 (Nov 23 - 29)
 date: 11/16/2015
 icon: calendar-blank
 process:

@@ -1,5 +1,5 @@
 ---
-title: Week 2 Materials
+title: Week 2 (Sep 21 - 27)
 date: 09/21/2015
 icon: calendar-blank
 process:

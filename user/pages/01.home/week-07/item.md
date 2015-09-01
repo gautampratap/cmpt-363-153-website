@@ -1,5 +1,5 @@
 ---
-title: Week 7 Materials
+title: Week 7 (Oct 26 - Nov 1)
 date: 10/26/2015
 icon: calendar-blank
 process:

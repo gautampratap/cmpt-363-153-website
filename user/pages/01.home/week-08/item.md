@@ -1,5 +1,5 @@
 ---
-title: Week 8 Materials
+title: Week 8 (Nov 2 - 8)
 date: 11/02/2015
 icon: calendar-blank
 process:

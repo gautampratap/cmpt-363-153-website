@@ -1,5 +1,5 @@
 ---
-title: Week 6 Materials
+title: Week 6 (Oct 19 - 25)
 date: 10/19/2015
 icon: calendar-blank
 process:
