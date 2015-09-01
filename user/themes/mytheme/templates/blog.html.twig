@@ -18,6 +18,8 @@
 				<div class="col s12 m8 l8 blog-main">
 				{% if config.plugins.breadcrumbs.enabled %}
 					{% include 'partials/breadcrumbs.html.twig' %}
+				{% else %}
+			</br>
 				{% endif %}
 
 				{% for module in page.collection('modular_content') %}
