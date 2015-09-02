@@ -1,50 +1,41 @@
 <div class="list-item">
-
 	<div class="list-blog-header">
-
 		{% if page.header.link %}
 			<h4>
-				{% if page.header.continue_link is not sameas(false) %}
-					<a href="{{ page.url }}"><i class="mdi mdi-share"></i></a>
-				{% endif %}
-				<a href="{{ page.header.link }}">{{ page.title }}</a>
+			{% if page.header.continue_link is not sameas(false) %}
+				<a href="{{ page.url }}"><i class="mdi mdi-share"></i></a>
+			{% endif %}
+			<a href="{{ page.header.link }}">{{ page.title }}</a>
 			</h4>
 		{% else %}
 			<h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h4>
 		{% endif %}
-
 		{#
 		<span class="list-blog-date">
 			<i class="mdi mdi-calendar"></i> {{ page.date|date("F") }} {{ page.date|date("d") }}, {{ page.date|date("Y") }}
 		</span>
-
 		{% if page.taxonomy.tag %}
 			<span class="tags">
 				{% for tag in page.taxonomy.tag %}
-				<a href="{{ base_url }}/tag{{ config.system.param_sep }}{{ tag }}"><span class="new badge">{{ tag|upper }}</span></a>
+					<a href="{{ base_url }}/tag{{ config.system.param_sep }}{{ tag }}"><span class="new badge">{{ tag|upper }}</span></a>
 				{% endfor %}
 			</span>
 		{% endif %}
 		#}
-
 		{% if big_header %}
-				{{ page.media.images|first.cropResize(900,600).html('', '', 'responsive-img blog-header-image') }}
+			{{ page.media.images|first.cropResize(900,600).html('', '', 'responsive-img blog-header-image') }}
 		{% else %}
-				{{ page.media.images|first.cropZoom(900,300).html('', '', 'responsive-img blog-header-image') }}
+			{{ page.media.images|first.cropZoom(900,300).html('', '', 'responsive-img blog-header-image') }}
 		{% endif %}
 	</div>
-
 	<div class="list-blog-content">
-
-    {% if page.header.reading.link %}
-		<p><strong>Required Reading</strong><br><a href={{ page.header.reading.link }}> {{ page.header.reading.text }}</a></p>
-		<p><div style="margin-bottom: -50px;">&nbsp;</div></p>
-		<a class="btn blue darken-2" href={{ page.header.quiz.link }}>{{ page.header.quiz.text }}<i class="mdi mdi-arrow-right-bold-circle-outline right"></i> </a>
+		{% if page.header.reading.link %}
+			<p><strong>Required Reading</strong><br><a href={{ page.header.reading.link }}> {{ page.header.reading.text }}</a></p>
+			<p><div style="margin-bottom: -50px;">&nbsp;</div></p>
+			<a class="btn blue darken-2" href={{ page.header.quiz.link }}>{{ page.header.quiz.text }}<i class="mdi mdi-arrow-right-bold-circle-outline right"></i> </a>
 		{% endif %}
 		<p>{{ page.content }}</p>
-
 		<div class="divider"></div>
-
 		{% if show_prev_next %}
 			<p>
 				{% if not page.isFirst %}
@@ -52,7 +43,6 @@
 				{% else %}
 					<a class="btn next hide"><i class="mdi mdi-chevron-left left"></i>Next</a>
 				{% endif %}
-
 				{% if not page.isLast %}
 					<a class="btn previous waves-effect waves-light" href="{{ page.prevSibling.url }}">Prev<i class="mdi mdi-chevron-left left"></i></a>
 				{% else %}
