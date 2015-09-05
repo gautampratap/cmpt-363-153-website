@@ -1,3 +1,49 @@
+# v0.9.40
+## 08/31/2015
+
+1. [](#new)
+    * Added some new Twig filers: `defined`, `rtrim`, `ltrim`
+    * Admin support for customizable page file name + template override
+1. [](#improved)
+    * Better message for incompatible/unsupported Twig template
+    * Improved User blueprints with better help
+    * Switched to composer **install** rather than **update** by default
+    * Admin autofocus on page title
+    * `.htaccess` hardening (`.htaccess` & `htaccess.txt`)
+    * Cache safety checks for missing folders
+1. [](#bugfix)
+    * Fixed issue with unescaped `o` character in date formats
+
+# v0.9.39
+## 08/25/2015
+
+1. [](#bugfix)
+    * `Page.active()` not triggering on **homepage**
+    * Fix for invalid session name in Opera browser
+
+# v0.9.38
+## 08/24/2015
+
+1. [](#new)
+    * Added `language` to **user** blueprint
+    * Added translations to blueprints
+    * New extending logic for blueprints
+    * Blueprints are now loaded with Streams to allow for better overrides
+    * Added new Symfony `dump()` method
+1. [](#improved)
+    * Catch YAML header parse exception so site doesn't die
+    * Better `Page.parent()` logic
+    * Improved GPM display layout
+    * Tweaked default page layout
+    * Unset route and slug for improved reliability of route changes
+    * Added requirements to README.md
+    * Updated various libraries
+    * Allow use of custom page date field for dateRange collections
+1. [](#bugfix)
+    * Slug fixes with GPM
+    * Unset plaintext password on save
+    * Fix for trailing `/` not matching active children
+
 # v0.9.37
 ## 08/12/2015
 

@@ -4,6 +4,7 @@ namespace Grav\Common\Twig;
 use Grav\Common\Grav;
 use Grav\Common\Config\Config;
 use Grav\Common\Page\Page;
+use Grav\Common\Inflector;
 use RocketTheme\Toolbox\ResourceLocator\UniformResourceLocator;
 
 /**
@@ -150,6 +151,7 @@ class Twig
                 'uri' => $this->grav['uri'],
                 'base_dir' => rtrim(ROOT_DIR, '/'),
                 'base_url' => $this->grav['base_url'] . $language_append,
+                'base_url_simple' => $this->grav['base_url'],
                 'base_url_absolute' => $this->grav['base_url_absolute'] . $language_append,
                 'base_url_relative' => $this->grav['base_url_relative'] . $language_append,
                 'theme_dir' => $locator->findResource('theme://'),
@@ -302,6 +304,7 @@ class Twig
         $pages = $this->grav['pages'];
         $page = $this->grav['page'];
         $content = $page->content();
+        $config = $this->grav['config'];
 
         $twig_vars = $this->twig_vars;
 
@@ -324,14 +327,16 @@ class Twig
             $output = $this->twig->render($template, $twig_vars);
         } catch (\Twig_Error_Loader $e) {
             // If loader error, and not .html.twig, try it as fallback
+            $inflector = new Inflector();
+            $error_msg = 'The template file for this page: "' . $page->template().'.html'.TWIG_EXT.'" is not provided by the theme: "'. $inflector->titleize($config->get('system.pages.theme')) .'"';
             if ($ext != '.html'.TWIG_EXT) {
                 try {
                     $output = $this->twig->render($page->template().'.html'.TWIG_EXT, $twig_vars);
                 } catch (\Twig_Error_Loader $e) {
-                    throw new \RuntimeException($e->getRawMessage(), 404, $e);
+                    throw new \RuntimeException($error_msg, 400, $e);
                 }
             } else {
-                throw new \RuntimeException($e->getRawMessage(), 404, $e);
+                throw new \RuntimeException($error_msg, 400, $e);
             }
         }
 
