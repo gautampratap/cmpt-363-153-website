@@ -3,17 +3,11 @@
   color: #FFFFFF;
   !important;
 }
-.list-blog-header {
-  position: relative;
-}
 .list-blog-header h4 {
   margin-bottom: -.75rem !important;
 }
-.list-blog-header img {
-  border-radius: 0.25rem;
-  clear: both;
-  display: block;
-  margin-top: 1rem;
+.list-blog-content h5 {
+  margin-top: .70rem !important;
 }
 ul {
   margin-top: 0!important;
