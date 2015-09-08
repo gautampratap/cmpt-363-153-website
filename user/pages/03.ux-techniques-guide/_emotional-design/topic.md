@@ -1,7 +1,7 @@
 ---
 title: Emotional Design
 ---
-**Emotional Design**
+**Emotional Design**  
 Creating experiences that are emotional appealing to people.
 *   [Design for Emotion and Flow](http://www.boxesandarrows.com/view/design-for-emotion)  
 *   [Designing Fun](http://www.alistapart.com/articles/designing-fun/)  
