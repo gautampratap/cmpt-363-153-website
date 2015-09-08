@@ -50,7 +50,7 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-sl
 
 ##### Handouts
 [Course Overview (PDF)](http://1drv.ms/1hAjhVT)   
-[Consent to Disclose Personal Information (PDF)](http://1drv.ms/1hAj9Wz)   
+[Consent to Disclose Personal Information (PDF)](http://1drv.ms/1hGmkw1)   
 
 ##### Suggested Reading  
 [Five Ways to Become a Better Team Player](http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/)  
