@@ -1,19 +1,17 @@
 ---
-title: Sep 14th Class
+title: Sep 21st Class (Week 2)
 date: 08/15/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: ""
-  text: ""
+  link: "http://www.nngroup.com/articles/usability-101-introduction-to-usability/"
+  text: "Usability 101: Introduction to Usability"
 quiz:
-  link: ""
-  text: ""
+  link: "https://canvas.sfu.ca/courses/22099/quizzes/28948/"
+  text: "Reading Quiz for Week 2 (optional, not graded)"
 continue_link: false
 published: true
 ---
 
-You're in luck, there no preparations for our first class together.
-
-Did you attend this class? [Share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381880) before midnight, the day of class.
+Once you have attended this class [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881) before midnight, Sep 21st.
