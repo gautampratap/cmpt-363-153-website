@@ -13,6 +13,4 @@ quiz:
 continue_link: false
 published: true
 ---
-_Please note: The quiz for our first week together is optional, and is not graded._
-
 Once you have attended this class [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881) before midnight, Sep 21st.
