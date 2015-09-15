@@ -16,14 +16,14 @@ title: Schedule
 ##### <i class="mdi mdi-calendar"></i> Week 3 (Sep 28 - Oct 4)
 <strong>Discover & Understand I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> UI Analysis peer review assigned, due Oct 5
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> User Research
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Research (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Conducting Interviews (not available on-line)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
 
 ##### <i class="mdi mdi-calendar"></i> Week 4 (Oct 5 - 11)
 <strong>Discover & Understand II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Needsfinding and Exploratory Sketches](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Oct 26
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> User Modelling and Stories of Usage
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Modelling and Stories of Usage (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
 
 ##### <i class="mdi mdi-calendar"></i> Week 5 (Oct 12 - 18)
