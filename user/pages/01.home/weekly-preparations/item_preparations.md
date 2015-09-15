@@ -9,9 +9,10 @@ reading:
   text: "Usability 101: Introduction to Usability"
 quiz:
   link: "https://canvas.sfu.ca/courses/22099/quizzes/28948/"
-  text: "Reading Quiz for Week 2 (optional, not graded)"
+  text: "Reading Quiz for Week 2"
 continue_link: false
 published: true
 ---
+_Please note: The quiz for our first week together is optional, and is not graded._
 
 Once you have attended this class [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881) before midnight, Sep 21st.
