@@ -4,13 +4,13 @@ title: Schedule
 ##### [<i class="mdi mdi-calendar"></i> Week 1 (Sep 14 - 20)](/home/week-01)
 <strong>Course Introduction</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [UX Topic Overview](https://canvas.sfu.ca/courses/22099/assignments/112757) assigned, due Dec 7
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Course Overview
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Introduction to UX Design
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Course Overview](http://slides.com/paulhibbitts/cmpt-363-153-course-overview#/)  
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Introduction to UX Design](http://slides.com/paulhibbitts/cmpt-363-153-introduction-to-ux#/)
 
 ##### <i class="mdi mdi-calendar"></i> Week 2 (Sep 21 - 27)
 <strong>Design Process</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [UI Analysis](https://canvas.sfu.ca/courses/22099/assignments/112756) assigned, due Sep 28
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> The Process of UX Design
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [The Process of UX Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Usability 101: Introduction to Usability](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
 ##### <i class="mdi mdi-calendar"></i> Week 3 (Sep 28 - Oct 4)
