@@ -1,6 +1,6 @@
 ---
 title: Week 1 (Sep 14 - 20)
-date: 08/22/2015
+date: 08/14/2015
 icon: calendar-blank
 process:
     twig: true

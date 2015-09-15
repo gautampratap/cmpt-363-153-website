@@ -1,6 +1,6 @@
 ---
 title: Sep 21st Class (Week 2)
-date: 08/15/2015
+date: 08/21/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
