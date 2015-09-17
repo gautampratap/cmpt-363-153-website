@@ -9,7 +9,7 @@ reading:
   text: "Usability 101: Introduction to Usability"
 quiz:
   link: "https://canvas.sfu.ca/courses/22099/quizzes/28948/"
-  text: "Reading Quiz for Week 2"
+  text: "Required Reading Quiz"
 continue_link: false
 published: true
 ---
