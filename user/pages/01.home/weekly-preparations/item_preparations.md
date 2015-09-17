@@ -1,5 +1,5 @@
 ---
-title: Sep 21st Class (Week 2)
+title: Sep 21st Class
 date: 08/21/2015
 icon: checkbox-marked-circle
 taxonomy:
