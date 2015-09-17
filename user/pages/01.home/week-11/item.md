@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Nov 16th (week 10) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
+*   [Nov 16th (week 10) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
 
 ##### Presented Slides
 *   [User Interface Inspections](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  

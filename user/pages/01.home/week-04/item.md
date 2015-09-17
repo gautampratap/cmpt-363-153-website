@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Oct 5th (week 4) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
+*   [Oct 5th (week 4) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382626)
 
 ##### Presented Slides
 *   [User Modeling and Usage Stories Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  

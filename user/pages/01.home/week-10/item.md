@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Nov 16th (week 10) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382635)
+*   [Nov 16th (week 10) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382635)
 
 ##### Presented Slides
 *   [Visual Design Basics](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  

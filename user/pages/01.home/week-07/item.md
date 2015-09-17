@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Oct 26th (week 7) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382631)
+*   [Oct 26th (week 7) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382631)
 
 ##### Presented Slides
 *   [HCI and Interface Design Principles](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  

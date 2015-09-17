@@ -8,7 +8,7 @@ published: true
 ---
 
 ##### Summaries and Questions
-*   [Sep 14th (week 1) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)
+*   [Sep 14th (week 1) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)
 
 ##### Presented Slides
 *   [Course Overview Slides](http://slides.com/paulhibbitts/cmpt-363-153-course-overview#/)  

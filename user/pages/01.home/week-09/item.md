@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Nov 9th (week 9) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382633)
+*   [Nov 9th (week 9) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382633)
 
 ##### Presented Slides
 *   [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
