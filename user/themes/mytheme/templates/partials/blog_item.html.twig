@@ -7,8 +7,6 @@
 			{% endif %}
 			<a href="{{ page.header.link }}">{{ page.title }}</a>
 			</h4>
-		{% else %}
-			<h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h4>
 		{% endif %}
 		{#
 		<span class="list-blog-date">
@@ -30,17 +28,25 @@
 	</div>
 	<div class="list-blog-content">
 		{% if page.header.continue_link is sameas(false) %}
+		  {% if not truncate %}
+			  	<h4><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</h4>
+			{% else %}
+		     	<h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h4>
+			{% endif %}
 			<p>{{ page.content }}</p>
 			{% if not truncate %}
 				{% set show_prev_next = true %}
 			{% endif %}
 		{% elseif truncate and page.summary != page.content %}
-			<p>{{ page.summary }}</p>
+		<h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h4>
+		<p>{{ page.summary }}</p>
 			<p><a href="{{ page.url }}">View all Materials <i class="mdi mdi-chevron-double-right"></i></a></p><br>
 		{% elseif truncate %}
+		<h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h4>
 			<p>{{ page.content|truncate(550) }}</p>
 			<p><a href="{{ page.url }}">View all Materials <i class="mdi mdi-chevron-double-right"></a></p><br>
 		{% else %}
+			<h4><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</h4>
 			{% set content = page.content|slice(page.summary|length) %}
 			<p>{{ content }}</p>
 			{% set show_prev_next = true %}

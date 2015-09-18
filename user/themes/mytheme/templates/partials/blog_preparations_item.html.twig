@@ -8,7 +8,11 @@
 			<a href="{{ page.header.link }}">{{ page.title }}</a>
 			</h4>
 		{% else %}
-			<h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h4>
+			{% if show_prev_next %}
+			<h4><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</h4>
+			{% else %}
+				<h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</a></h4>
+			{% endif %}
 		{% endif %}
 		{#
 		<span class="list-blog-date">
