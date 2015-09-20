@@ -17,7 +17,7 @@ published: false
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions  
-[Sep 21st (week 2) Class One-minute Summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)  
+[Sep 21st (week 2) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/381881)  
 
 ##### Presented Slides  
 The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
