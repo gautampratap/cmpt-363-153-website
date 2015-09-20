@@ -1,5 +1,5 @@
 ---
-title: Week 10 (Nov 23 - 29)
+title: Week 10 (Nov 16 - 22)
 date: 11/16/2015
 icon: calendar-blank
 process:
@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Nov 16th (week 10) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382635)
+*   [Nov 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382635)
 
 ##### Presented Slides
 *   [Visual Design Basics](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
@@ -17,7 +17,7 @@ published: false
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions
-[Nov 16th (week 10) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382635)
+[Nov 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382635)
 
 ##### Presented Slides  
 Visual Design Basics ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))

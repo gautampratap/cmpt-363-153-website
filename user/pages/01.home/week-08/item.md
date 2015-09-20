@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions  
-*   [Nov 2nd (week 8) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382632)
+*   [Nov 2nd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382632)
 
 ##### Presented Slides  
 *   [Usability Testing](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
@@ -17,7 +17,7 @@ published: false
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions  
-[Nov 2nd (week 8) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
+[Nov 2nd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
 
 ##### Presented Slides  
 Usability Testing ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))

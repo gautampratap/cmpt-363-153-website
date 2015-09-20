@@ -1,5 +1,5 @@
 ---
-title: Week 11 (Nov 30 - Dec 6)
+title: Week 11 (Nov 23 - Nov 29)
 date: 11/23/2015
 icon: calendar-blank
 process:
@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Nov 16th (week 10) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
+*   [Nov 23rd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
 
 ##### Presented Slides
 *   [User Interface Inspections](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
@@ -17,7 +17,7 @@ published: false
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions
-[Nov 16th (week 10) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
+[Nov 23rd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
 
 ##### Presented Slides  
 User Interface Inspections ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))

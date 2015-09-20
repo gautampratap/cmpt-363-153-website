@@ -1,5 +1,5 @@
 ---
-title: Week 12 (Dec 7)
+title: Week 12 (Nov 30 - Dec 6)
 date: 11/30/2015
 icon: calendar-blank
 continue_link: false

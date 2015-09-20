@@ -8,7 +8,7 @@ published: false
 ---
 
 ##### Summaries and Questions
-*   [Oct 19th (week 6) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382630)
+*   [Oct 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382630)
 
 ##### Presented Slides
 *   [Conceptual Models](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
@@ -17,7 +17,7 @@ published: false
 
 <style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions
-[Oct 19th (week 6) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382630)
+[Oct 19th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382630)
 
 ##### Presented Slides  
 Conceptual Models ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
