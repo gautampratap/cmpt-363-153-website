@@ -1,8 +1,9 @@
 ---
-title: Process Flows
+title: Prototyping
 ---
-**Process Flows**  
-An illustration of specific processes a user may undertake within a system.  
-*   [Process Flow Definition](http://www.ehow.com/about_5040255_process-flow-definition.html)  
-*   [Task Flows](http://pathfindersoftware.com/tag/task-flows/)  
-*   [User Task Flows (PDF)](http://www.stickyminds.com/getfile.asp?ot=XML&amp;amp;amp;amp;id=12987&amp;amp;amp;amp;fn=XUS29543666file1%2Epdf)  
+**Prototyping**  
+The creation of a working model of a system or interface.  
+*   [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)  
+*   [Designing with Code](http://www.uxbooth.com/articles/designing-with-code/)  
+*   [Five Prevalent Pitfalls when Prototyping](http://www.uie.com/articles/pitfalls_prototyping/)  
+*   [The Skeptic’s Guide To Low-Fidelity Prototyping](http://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
