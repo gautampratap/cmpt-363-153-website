@@ -7,7 +7,7 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Course Overview](http://slides.com/paulhibbitts/cmpt-363-153-course-overview#/)  
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Introduction to UX Design](http://slides.com/paulhibbitts/cmpt-363-153-introduction-to-ux#/)
 
-##### <i class="mdi mdi-calendar"></i> Week 2 (Sep 21 - 27)
+##### [<i class="mdi mdi-calendar"></i> Week 2 (Sep 21 - 27)](/home/week-02)
 <strong>Design Process</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [UI Analysis](https://canvas.sfu.ca/courses/22099/assignments/112756) assigned, due Sep 28
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [The Process of UX Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)

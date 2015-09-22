@@ -1,6 +1,6 @@
 ---
 title: Sep 21st Class
-date: 09/15/2015
+date: 08/21/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
@@ -13,4 +13,4 @@ quiz:
 continue_link: false
 published: true
 ---
-After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881) before midnight, September 21st.
+Weekly quizes are due by 10:00am the day of class. After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/381881) before midnight, September 21st.

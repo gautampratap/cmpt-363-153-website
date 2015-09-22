@@ -19,7 +19,7 @@
 					</br>
 				{% endif %}
 				{% for module in page.collection('modular_content') %}
-					<p>{{ module.content }}</p>
+					  <p>{{ module.content }}</p>
 				{% endfor %}
 				{% set preparations = taxonomy.findTaxonomy({'tag':'preparation'}).order(‘date’, ‘desc’) %}
 				{% if preparations and preparations|length > 0 and uri.currentPage == 1 %}
