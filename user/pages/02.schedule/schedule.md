@@ -10,7 +10,7 @@ title: Schedule
 ##### [<i class="mdi mdi-calendar"></i> Week 2 (Sep 21 - 27)](/home/week-02)
 <strong>Design Process</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [UI Analysis](https://canvas.sfu.ca/courses/22099/assignments/112756) assigned, due Sep 28
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [The Process of UX Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [The Process of UX Design](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Usability 101: Introduction to Usability](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
 ##### <i class="mdi mdi-calendar"></i> Week 3 (Sep 28 - Oct 4)
