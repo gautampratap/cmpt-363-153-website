@@ -10,9 +10,11 @@
 			<ul class="right hide-on-med-and-down">
 				{% for page in pages.children.visible %}
 					{% set current_page = (page.active or page.activeChild) ? 'active' : '' %}
-					<li class="{{ current_page }}">
-						<a href="{{ page.url }}">{{ page.menu }}</a>
-					</li>
+					{% if page.menu != 'Home' %}
+						<li class="{{ current_page }}">
+							<a href="{{ page.url }}">{{ page.menu }}</a>
+						</li>
+					{% endif %}
 				{% endfor %}
 				{% for mitem in site.menu %}
 					<li>
