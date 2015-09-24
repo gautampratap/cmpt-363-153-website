@@ -59,6 +59,9 @@ footer.page-footer .footer-copyright {
 .collapsible-body h1, .collapsible-body h2, .collapsible-body h3, .collapsible-body h4, .collapsible-body h5, .collapsible-body h5, .collapsible-body h6 {
   color: #666666;
 }
+.collapsible-header {
+  background-color: #FBFBFB!important;
+}
 .collapsible-body h6 {
   font-size: 1rem;
 }
@@ -107,10 +110,10 @@ div.list-blog-content ul {
   margin-top: 0.5rem;
 }
 body {
-  background-color: #EFEFEF
+  background-color: #F9F9F9
 }
 .collapsible-body {
-  background-color: #EFEFEF;
+  background-color: #F9F9F9;
 }
 .card-panel {
   padding: 10px 5px 10px 10px;
