@@ -30,7 +30,7 @@ ul {
     display: block;
   }
   footer.page-footer .footer-copyright {
-    height: 184px;
+    height: 5rem!important;
   }
 }
 @media only screen and (min-width: 992px) {
