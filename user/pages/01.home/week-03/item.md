@@ -4,14 +4,14 @@ date: 09/28/2015
 icon: calendar-blank
 process:
     twig: true
-published: false
+published: true
 ---
 
 ##### Summaries and Questions  
 *   [Sep 28th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)
 
 ##### Presented Slides  
-*   [User Research Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
+*   [User Research Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/)  
 
 ===
 
@@ -20,11 +20,11 @@ published: false
 [Sep 28th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
 
 ##### Presented Slides  
-User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
+User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/) | [PDF Slides](http://1drv.ms/1jnWCgi))
 
 <div class="row">
   <div class="col s10">
-    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-user-research/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 
