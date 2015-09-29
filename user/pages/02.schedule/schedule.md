@@ -50,7 +50,7 @@ title: Schedule
 ##### <i class="mdi mdi-calendar"></i> Week 9 (Nov 9 - 15)
 <strong>Visualize & Prototype II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Mobile and Multi-device Design
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
 
 ##### <i class="mdi mdi-calendar"></i> Week 10 (Nov 16 - 22)
 <strong>Visualize & Prototype III</strong>
