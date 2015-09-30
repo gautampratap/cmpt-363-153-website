@@ -1,4 +1,4 @@
-# CMPT 363 153 Assigmment #2 Rubric Details
+# CMPT 363 153 Assignment #2 Rubric Details
 
 * **Assignment:** [UI Analysis Peer Reviews](https://canvas.sfu.ca/courses/22099/assignments/112756)
 * **Instructor:** Paul Hibbitts, [paulh@sfu.ca](mailto:paulh@sfu.c)
