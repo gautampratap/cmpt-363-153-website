@@ -20,4 +20,4 @@
 * Overall Presentation
     * Consider the overall visual presentation of the assignment, including organization.
 
-See ways to make this rubric clearer or more effective? Please feel free to make a Pull Request and make your suggested changes!
+See ways to make this rubric clearer or more effective? Please feel free to make a suggested change by [editing this file](https://github.com/paulhibbitts/cmpt-363-153-website/edit/master/user/materials/rubrics/assignment-2/README.md) (GitHub account required).
