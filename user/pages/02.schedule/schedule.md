@@ -13,7 +13,7 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [The Process of UX Design](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Usability 101: Introduction to Usability](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 
-##### <i class="mdi mdi-calendar"></i> Week 3 (Sep 28 - Oct 4)
+##### [<i class="mdi mdi-calendar"></i> Week 3 (Sep 28 - Oct 4)](/home/week-03)
 <strong>Discover & Understand I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> UI Analysis [Peer Reviews](https://canvas.sfu.ca/courses/22099) assigned, due Oct 5
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Research](http://slides.com/paulhibbitts/cmpt-363-153-user-research#/)
@@ -25,6 +25,7 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Needsfinding and Exploratory Sketches](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Oct 26
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Modelling and Stories of Usage (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Interactive System Description (PDF)](http://1drv.ms/1iPGh3x)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Empathy Map Template (PDF)](http://www.innovationlabs.org.uk/wp-content/uploads/2014/04/Empathy-Map-No-Stickies.png)
 

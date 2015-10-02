@@ -31,9 +31,8 @@ User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts
 ##### Assignments  
 [Needsfinding and Exploratory Sketches Assignment](https://canvas.sfu.ca/courses/22099/assignments/112758)  
 
-##### Handouts  
-[EZ-Write Persona Example](http://www.smashingmagazine.com/2014/08/06/a-closer-look-at-personas-part-1/) (via smashingmagazine.com/)
-[Empathy Map Persona Example](http://thesumbuddy.com/2014/04/05/2-useful-tools-understand-customer/) (via thesumbuddy.com/)  
+##### Handouts
+[Interactive System Description](http://1drv.ms/1iPGh3x)
 
 ##### Required Reading  
 [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
