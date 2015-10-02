@@ -32,7 +32,8 @@ User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts
 [Needsfinding and Exploratory Sketches Assignment](https://canvas.sfu.ca/courses/22099/assignments/112758)  
 
 ##### Handouts
-[Interactive System Description](http://1drv.ms/1iPGh3x)
+[Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)  
+[Interactive System Description (PDF)](http://1drv.ms/1iPGh3x)  
 
 ##### Required Reading  
 [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
