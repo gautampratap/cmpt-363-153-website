@@ -84,6 +84,11 @@
 								</a>
 							</li>
 						{% endfor %}
+						{% if config.themes.mytheme.github.enabled %}
+							<li>
+								{% include 'partials/github_link.html.twig' %}
+							</li>
+						{% endif %}
 					</ul>
 					<br>
 				</div>

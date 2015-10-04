@@ -28,6 +28,11 @@
 						</a>
 					</li>
 				{% endfor %}
+				{% if config.themes.mytheme.github.enabled %}
+					<li>
+						{% include 'partials/github_link.html.twig' %}
+					</li>
+				{% endif %}
 			</ul>
 			<ul id="mobile-demo" class="side-nav">
 				{% for page in pages.children.visible %}
@@ -43,6 +48,11 @@
 						</a>
 					</li>
 				{% endfor %}
+				{% if config.themes.mytheme.github.enabled %}
+					<li>
+						{% include 'partials/github_link.html.twig' %}
+					</li>
+				{% endif %}
 			</ul>
 		</div>
 	</nav>
