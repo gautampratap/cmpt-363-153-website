@@ -1,6 +1,6 @@
 ---
 title: Oct 5th Class
-date: 09/29/2015
+date: 10/05/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
