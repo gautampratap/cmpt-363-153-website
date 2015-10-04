@@ -1,0 +1,32 @@
+---
+process:
+    twig: true
+---
+<h4>Course Facilitators</h4>
+<p><strong>Paul Hibbitts</strong><br><a href="mailto:paulh@sfu.ca?subject=CMPT-363-153"><span class="grey-text text-darken-2"><i class="mdi mdi-email"></i></span> paulh@sfu.ca</a><br><a href="https://twitter.com/hibbittsdesign/" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-twitter"></i></span> @hibbittsdesign</a><br>Office hours Mon. 4:00-5:15pm HC 2148</p>
+<p><strong>Warunika Ranaweera</strong><br><a href="mailto:wranawee@sfu.ca?subject=CMPT-363-153"><span class="grey-text text-darken-2"><i class="mdi mdi-email"></i></span> wranawee@sfu.ca</a></p>
+
+<h4>LMS and Course Tools</h4>
+<p><a href="https://calendly.com/paulhibbitts/sfu-harbour-centre-office-hours" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-account-multiple"></i></span> Book Office Hours</a><br>
+<a href="https://canvas.sfu.ca/calendar" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-calendar"></i></span> Canvas LMS Calendar</a><br>
+<a href="https://canvas.sfu.ca/courses/22099/assignments" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> Assignments</a><br>
+<a href="https://canvas.sfu.ca/courses/22099/quizzes" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-comment-check-outline"></i></span> Quizes</a><br>
+<a href="https://canvas.sfu.ca/courses/22099/discussion_topics" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-forum"></i></span> Class Discussions</a><br>
+<a href="http://www.cs.sfu.ca/CourseCentral/Hypermail/cmpt-363/" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-archive"></i></span> Mail List Archive</a><br>
+<a href="https://canvas.sfu.ca/courses/22099/gradebook" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-calculator"></i></span> Grades</a><br>
+<a href="https://canvas.sfu.ca/courses/22099/assignments/syllabus" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-file-document-box"></i></span> Syllabus</a><br>
+<a href="https://docs.google.com/a/paulhibbitts.com/forms/d/13BDqLUSadreMmDQGegAmhWIwt36D0RGSyUd9vKwsD-w/viewform" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-bullhorn"></i></span> Anonymous Feedback</a><br>
+</p>
+
+<h4>Twitter Feed</h4>
+<div style="background:#F9F9F9;padding:8px;border:1px solid #DDDDDD;border-radius: 4px;">
+<a class="twitter-timeline" href="https://twitter.com/hibbittsdesign/lists/cmpt-363-ux" data-widget-id="590941541406941184" data-chrome="transparent">Tweets from https://twitter.com/hibbittsdesign/lists/cmpt-363-ux</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+{% if config.plugins.feed.enabled %}
+<h4>Subscribe</h4>
+<div>
+	<a class="btn" href="{{ feed_url }}.atom"><i class="mdi mdi-rss-box"></i> Atom 1.0</a>
+	<a class="btn" href="{{ feed_url }}.rss"><i class="mdi mdi-rss-box"></i> RSS</a>
+</div>
+{% endif %}
