@@ -27,7 +27,7 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Interactive System Description (PDF)](http://1drv.ms/1iPGh3x)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Empathy Map Template (PDF)](http://www.innovationlabs.org.uk/wp-content/uploads/2014/04/Empathy-Map-No-Stickies.png)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Empathy Map Template (PNG)](http://www.innovationlabs.org.uk/wp-content/uploads/2014/04/Empathy-Map-No-Stickies.png)
 
 ##### <i class="mdi mdi-calendar"></i> Week 5 (Oct 12 - 18)
 <strong>Thanksgiving, No Class</strong>
