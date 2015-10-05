@@ -10,7 +10,7 @@ process:
 <p><a href="https://calendly.com/paulhibbitts/sfu-harbour-centre-office-hours" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-account-multiple"></i></span> Book Office Hours</a><br>
 <a href="https://canvas.sfu.ca/calendar" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-calendar"></i></span> Canvas LMS Calendar</a><br>
 <a href="https://canvas.sfu.ca/courses/22099/assignments" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> Assignments</a><br>
-<a href="https://canvas.sfu.ca/courses/22099/quizzes" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-comment-check-outline"></i></span> Quizes</a><br>
+<a href="https://canvas.sfu.ca/courses/22099/quizzes" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-comment-check-outline"></i></span> Quizzes</a><br>
 <a href="https://canvas.sfu.ca/courses/22099/discussion_topics" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-forum"></i></span> Class Discussions</a><br>
 <a href="http://www.cs.sfu.ca/CourseCentral/Hypermail/cmpt-363/" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-archive"></i></span> Mail List Archive</a><br>
 <a href="https://canvas.sfu.ca/courses/22099/gradebook" target="_blank"><span class="grey-text text-darken-2"><i class="mdi mdi-calculator"></i></span> Grades</a><br>

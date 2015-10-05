@@ -30,10 +30,9 @@ User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts
 
 ##### Assignments  
 [Needsfinding and Exploratory Sketches Assignment](https://canvas.sfu.ca/courses/22099/assignments/112758)  
-
-##### Handouts
-[Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)  
 [Interactive System Description (PDF)](http://1drv.ms/1iPGh3x)  
+[Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)  
+[Empathy Map Template (PNG)](http://www.innovationlabs.org.uk/wp-content/uploads/2014/04/Empathy-Map-No-Stickies.png)  
 
 ##### Required Reading  
 [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
