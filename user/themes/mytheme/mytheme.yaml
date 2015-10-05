@@ -1,7 +1,3 @@
-github:
-    enabled: true
-    tree: https://github.com/paulhibbitts/cmpt-363-153-website/edit/master/user/
-
 streams:
  schemes:
    theme:
