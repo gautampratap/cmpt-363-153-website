@@ -1,16 +1,22 @@
 ---
-title: Oct 5th Class
-date: 10/05/2015
+title: Oct 12th Class
+date: 10/12/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: "http://www.cooper.com/journal/2014/05/persona-empathy-mapping"
-  text: "Persona Empathy Mapping"
+  link: ""
+  text: ""
 quiz:
-  link: "https://canvas.sfu.ca/courses/22099/quizzes/28954"
-  text: "Required Reading Quiz"
+  link: ""
+  text: ""
 continue_link: false
 published: true
 ---
-After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382626) before midnight, October 5th.
+
+Due to Thanksgiving Holiday there is no class on Monday. Want to get a head start with next class?
+
+<p><strong>Required Reading for Oct 19th</strong><br>
+<a class="newwindow" href=https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962> Conceptual Models: Begin by Designing What to Design, ACM</a></p>
+<p><div style="margin-bottom: -3.1rem;">&nbsp;</div></p>
+<a class="btn blue darken-2 newwindow" href=https://canvas.sfu.ca/courses/22099/quizzes/28959>Required Reading Quiz<i class="mdi mdi-arrow-right-bold-circle-outline right"></i> </a>
