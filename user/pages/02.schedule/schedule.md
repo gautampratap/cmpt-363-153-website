@@ -20,7 +20,7 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Conducting Interviews (not available on-line)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
 
-##### <i class="mdi mdi-calendar"></i> Week 4 (Oct 5 - 11)
+##### [<i class="mdi mdi-calendar"></i> Week 4 (Oct 5 - 11)](/home/week-04)
 <strong>Discover & Understand II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Needsfinding and Exploratory Sketches](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Oct 26
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Modelling and Stories of Usage (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)
