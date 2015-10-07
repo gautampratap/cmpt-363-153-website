@@ -23,7 +23,7 @@ title: Schedule
 ##### [<i class="mdi mdi-calendar"></i> Week 4 (Oct 5 - 11)](/home/week-04)
 <strong>Discover & Understand II</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Needsfinding and Exploratory Sketches](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Oct 26
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Modelling and Stories of Usage (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Modelling and Stories of Usage](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Interactive System Description (PDF)](http://1drv.ms/1iPGh3x)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)
@@ -34,34 +34,34 @@ title: Schedule
 
 ##### <i class="mdi mdi-calendar"></i> Week 6 (Oct 19 - 25)
 <strong>Conceptualize & Define I</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Conceptual Models
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Conceptual Models (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-conceptual-models#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Conceptual Models: Begin by Designing What to Design, ACM](https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962)
 
 ##### <i class="mdi mdi-calendar"></i> Week 7 (Oct 26 - Nov 1)
 <strong>Visualize & Prototype I</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> HCI and Interface Design Principles
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [HCI and Interface Design Principles (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-hci-and-interface-design-principles#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The best interface is no interface](http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface)
 
 ##### <i class="mdi mdi-calendar"></i> Week 8 (Nov 2 - 8)
 <strong>Evaluate & Refine I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Nov 23
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Usability Testing
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Usability Testing (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-usability-testing#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
 
 ##### <i class="mdi mdi-calendar"></i> Week 9 (Nov 9 - 15)
 <strong>Visualize & Prototype II</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Mobile and Multi-device Design
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Mobile and Multi-device Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
 
 ##### <i class="mdi mdi-calendar"></i> Week 10 (Nov 16 - 22)
 <strong>Visualize & Prototype III</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Basics
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Visual Design Basics (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-visual-design-basics#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Essentials for Non-Designers (not available on-line)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Impact of Aesthetics on Attitudes Towards Websites](http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html)
 
 ##### <i class="mdi mdi-calendar"></i> Week 11 (Nov 23 - 29)
 <strong>Evaluate & Refine II</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> User Interface Inspections
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [User Interface Inspections (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-user-interface-inspections#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [What You Really Get From a Heuristic Evaluation](https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation)
 
 ##### <i class="mdi mdi-calendar"></i> Week 12 (Nov 30 - Dec 6)
