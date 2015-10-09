@@ -51,7 +51,7 @@
 			<p>{{ content }}</p>
 			{% set show_prev_next = true %}
 		{% endif %}
-		{% if not grav.uri.param('displaycontentonly') %}
+		{% if not grav.uri.param('displaypagecontentonly') %}
 			<div class="divider"></div>
 			{% if show_prev_next %}
 				<p>

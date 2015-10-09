@@ -58,7 +58,7 @@
 		ga('send', 'pageview');
 		</script>
 	</head>
-	{% if not grav.uri.param('displaycontentonly') %}
+	{% if not grav.uri.param('displaypagecontentonly') %}
 	<body class="{% block body_classes %}{{ page.header.body_classes }}{% endblock %}">
 		{% block header_navigation %}
 			{% include 'partials/navigation.html.twig' %}
@@ -66,10 +66,10 @@
 	{% endif %}
 	{% block content %}{% endblock %}
 	{% block pagination %}{% endblock %}
-	<footer class="page-footer">
+	{% if not grav.uri.param('displaypagecontentonly') %}
+		<footer class="page-footer">
 		<div class="footer-copyright">
 			<div class="container">
-				{% if not grav.uri.param('displaycontentonly') %}
 					<div class="footer-nav">
 						<ul>
 							{% for page in pages.children.visible %}
@@ -95,11 +95,11 @@
 						</ul>
 						<br>
 					</div>
-				{% endif %}
 				Materialize Theme for <a href="http://getgrav.org">Grav</a>
 			</div>
 		</div>
 	</footer>
+	{% endif %}
 	{% block bottom %}
 		<script>
 			$(document).ready(function () {
