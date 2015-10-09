@@ -35,13 +35,10 @@
 					{% endif %}
 				{% endfor %}
 			</div>
-			{{ grav.uri.param('contentonly') }}
-			{% if not grav.uri.param('contentonly') %}
-				<div class="col s0 m4 l4 blog-sidebar">
+			<div class="col s0 m4 l4 blog-sidebar">
 				{% include 'partials/sidebar.html.twig' %}
 				{# {% include 'partials/sidebar_page.html.twig' with {'page':'sidebar', 'truncate':false} %} #}
 			</div>
-			{% endif %}
 		</div>
 	</div>
 {% endblock %}
