@@ -32,9 +32,8 @@ TBD
 
 ##### Required Reading  
 [Conceptual Models: Begin by Designing What to Design, ACM](https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962)
-<style>iframe.embedly-card{float:left;}</style>
 <div class="row"> <div class="col s10">
-  <a class="embedly-card" href="https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962">Persona Empathy Mapping</a>
+  <a class="embedly-card" data-card-align="left" href="https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962">Persona Empathy Mapping</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>
 
 ##### Supplemental Readings

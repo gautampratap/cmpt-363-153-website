@@ -32,9 +32,8 @@ TBD
 
 ##### Required Reading  
 [What You Really Get From a Heuristic Evaluation](https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation)
-<style>iframe.embedly-card{float:left;}</style>
 <div class="row"> <div class="col s10">
-  <a class="embedly-card" href="https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation">What You Really Get From a Heuristic Evaluation</a>
+  <a class="embedly-card" data-card-align="left" href="https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation">What You Really Get From a Heuristic Evaluation</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>
 
 ##### Supplemental Readings

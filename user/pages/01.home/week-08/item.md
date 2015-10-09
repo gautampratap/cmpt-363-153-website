@@ -35,10 +35,9 @@ TBD
 
 ##### Required Reading  
 [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
-<style>iframe.embedly-card{float:left;}</style>
 <div class="row">
   <div class="col s10">
-    <a class="embedly-card" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testingh</a>
+    <a class="embedly-card" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testingh</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
   </div>
 </div>  

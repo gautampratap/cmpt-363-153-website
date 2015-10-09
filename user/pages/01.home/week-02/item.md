@@ -34,10 +34,9 @@ The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-
 
 ##### Required Readings  
 [Usability 101: Introduction to Usability](http://www.nngroup.com/articles/usability-101-introduction-to-usability/)
-<style>iframe.embedly-card{float:left;}</style>
 <div class="row">
   <div class="col s10">
-  <a class="embedly-card" href="http://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
+  <a class="embedly-card" data-card-align="left" href="http://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 </div>
 </div>

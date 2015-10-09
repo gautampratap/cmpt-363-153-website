@@ -35,9 +35,8 @@ User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts
 
 ##### Required Reading  
 [Persona Empathy Mapping](http://www.cooper.com/journal/2014/05/persona-empathy-mapping)
-<style>iframe.embedly-card{float:left;}</style>
 <div class="row"> <div class="col s10">
-  <a class="embedly-card" href="http://www.cooper.com/journal/2014/05/persona-empathy-mapping">Persona Empathy Mapping</a>
+  <a class="embedly-card" data-card-align="left" href="http://www.cooper.com/journal/2014/05/persona-empathy-mapping">Persona Empathy Mapping</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>
 
 ##### Supplemental Readings

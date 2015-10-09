@@ -37,10 +37,9 @@ User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-re
 
 ##### Required Reading  
 [A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/)  
-<style>iframe.embedly-card{float:left;}</style>
 <div class="row">
   <div class="col s10">
-    <a class="embedly-card" href="http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/">A Five-Step Process For Conducting User Research</a>
+    <a class="embedly-card" data-card-align="left" href="http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/">A Five-Step Process For Conducting User Research</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
   </div>
 </div>  
