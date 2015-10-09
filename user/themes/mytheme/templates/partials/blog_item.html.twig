@@ -51,20 +51,22 @@
 			<p>{{ content }}</p>
 			{% set show_prev_next = true %}
 		{% endif %}
-		<div class="divider"></div>
-		{% if show_prev_next %}
-			<p>
-				{% if not page.isFirst %}
-					<a class="btn next waves-effect waves-light" href="{{ page.nextSibling.url }}"><i class="mdi mdi-chevron-right right"></i>Next</a>
-				{% else %}
-					<a class="btn next hide"><i class="mdi mdi-chevron-left left"></i>Next</a>
-				{% endif %}
-				{% if not page.isLast %}
-					<a class="btn previous waves-effect waves-light" href="{{ page.prevSibling.url }}">Prev<i class="mdi mdi-chevron-left left"></i></a>
-				{% else %}
-					<a class="btn previous hide">Prev<i class="mdi mdi-chevron-right right"></i></a>
-				{% endif %}
-			</p>
+		{% if not grav.uri.param('displaycontentonly') %}
+			<div class="divider"></div>
+			{% if show_prev_next %}
+				<p>
+					{% if not page.isFirst %}
+						<a class="btn next waves-effect waves-light" href="{{ page.nextSibling.url }}"><i class="mdi mdi-chevron-right right"></i>Next</a>
+					{% else %}
+						<a class="btn next hide"><i class="mdi mdi-chevron-left left"></i>Next</a>
+					{% endif %}
+					{% if not page.isLast %}
+						<a class="btn previous waves-effect waves-light" href="{{ page.prevSibling.url }}">Prev<i class="mdi mdi-chevron-left left"></i></a>
+					{% else %}
+						<a class="btn previous hide">Prev<i class="mdi mdi-chevron-right right"></i></a>
+					{% endif %}
+				</p>
+			{% endif %}
 		{% endif %}
 	</div>
 </div>

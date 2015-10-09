@@ -58,40 +58,44 @@
 		ga('send', 'pageview');
 		</script>
 	</head>
+	{% if not grav.uri.param('displaycontentonly') %}
 	<body class="{% block body_classes %}{{ page.header.body_classes }}{% endblock %}">
-	{% block header_navigation %}
-		{% include 'partials/navigation.html.twig' %}
-	{% endblock %}
+		{% block header_navigation %}
+			{% include 'partials/navigation.html.twig' %}
+			{% endblock %}
+	{% endif %}
 	{% block content %}{% endblock %}
 	{% block pagination %}{% endblock %}
 	<footer class="page-footer">
 		<div class="footer-copyright">
 			<div class="container">
-				<div class="footer-nav">
-					<ul>
-						{% for page in pages.children.visible %}
-							<li><a href="{{ page.url }}">{{ page.menu }}</a></li>
-						{% endfor %}
-						{% for mitem in site.menu %}
-							<li>
-								<a class="newwindow" href="{{ mitem.url }}" title="{{ mitem.title }}">
-									{% if mitem.icon %}
-										<i class="mdi mdi-{{ mitem.icon }}"></i>
-										<span>{{ mitem.text }}</span>
-									{% else %}
-										{{ mitem.text }}
-									{% endif %}
-								</a>
-							</li>
-						{% endfor %}
-						{% if config.site.github.enabled %}
-							<li>
-								{% include 'partials/github_link.html.twig' %}
-							</li>
-						{% endif %}
-					</ul>
-					<br>
-				</div>
+				{% if not grav.uri.param('displaycontentonly') %}
+					<div class="footer-nav">
+						<ul>
+							{% for page in pages.children.visible %}
+								<li><a href="{{ page.url }}">{{ page.menu }}</a></li>
+							{% endfor %}
+							{% for mitem in site.menu %}
+								<li>
+									<a class="newwindow" href="{{ mitem.url }}" title="{{ mitem.title }}">
+										{% if mitem.icon %}
+											<i class="mdi mdi-{{ mitem.icon }}"></i>
+											<span>{{ mitem.text }}</span>
+										{% else %}
+											{{ mitem.text }}
+										{% endif %}
+									</a>
+								</li>
+							{% endfor %}
+							{% if config.site.github.enabled %}
+								<li>
+									{% include 'partials/github_link.html.twig' %}
+								</li>
+							{% endif %}
+						</ul>
+						<br>
+					</div>
+				{% endif %}
 				Materialize Theme for <a href="http://getgrav.org">Grav</a>
 			</div>
 		</div>
