@@ -15,7 +15,6 @@ published: false
 
 ===
 
-<style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions
 [Nov 16th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382635)
 
@@ -33,6 +32,7 @@ TBD
 
 ##### Required Reading  
 [The Impact of Aesthetics on Attitudes Towards Websites](http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html)
+<style>iframe.embedly-card{float:left;}</style>
 <div class="row"> <div class="col s10">
   <a class="embedly-card" href="http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html">The Impact of Aesthetics on Attitudes Towards Websites</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>

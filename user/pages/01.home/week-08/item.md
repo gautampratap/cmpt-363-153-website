@@ -15,7 +15,6 @@ published: false
 
 ===
 
-<style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions  
 [Nov 2nd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
 
@@ -36,6 +35,7 @@ TBD
 
 ##### Required Reading  
 [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
+<style>iframe.embedly-card{float:left;}</style>
 <div class="row">
   <div class="col s10">
     <a class="embedly-card" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testingh</a>

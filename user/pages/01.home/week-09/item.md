@@ -15,7 +15,6 @@ published: false
 
 ===
 
-<style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions
 [Nov 9th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382633)
 
@@ -33,6 +32,7 @@ TBD
 
 ##### Required Reading  
 [Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)
+<style>iframe.embedly-card{float:left;}</style>
 <div class="row"> <div class="col s10">
   <a class="embedly-card" href="http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html">Design for Every Screen</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>

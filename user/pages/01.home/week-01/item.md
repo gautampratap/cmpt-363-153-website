@@ -16,13 +16,11 @@ published: true
 
 ===
 
-<style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions  
 [Sep 14th (week 1) Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/381880)  
 
 ##### Presented Slides  
 Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-course-overview#/) | [PDF Slides](http://1drv.ms/1NBerFr))  
-
 <div class="row">
   <div class="col s10">
   <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-course-overview/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
@@ -54,6 +52,7 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-in
 
 ##### Suggested Reading  
 [Five Ways to Become a Better Team Player](http://www.smashingmagazine.com/2013/09/23/5-step-process-conducting-user-research/)  
+<style>iframe.embedly-card{float:left;}</style>
 <div class="row">
   <div class="col s10">
     <a class="embedly-card" href="http://www.forbes.com/sites/dorieclark/2012/03/28/five-ways-to-become-a-better-team-player/">Five Ways to Become a Better Team Player</a>

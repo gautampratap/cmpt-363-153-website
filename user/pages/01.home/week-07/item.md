@@ -15,7 +15,6 @@ published: false
 
 ===
 
-<style>iframe.embedly-card{float:left;}</style>
 ##### Summaries and Questions
 [Oct 26th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382631)
 
@@ -33,6 +32,7 @@ TBD
 
 ##### Required Reading  
 [The best interface is no interface](http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface)
+<style>iframe.embedly-card{float:left;}</style>
 <div class="row"> <div class="col s10">
   <a class="embedly-card" href="http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface">The best interface is no interface</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>
