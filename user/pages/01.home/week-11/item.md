@@ -41,5 +41,3 @@ TBD
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_cognitive-walkthroughs')} %}  
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_heuristic-evaluations')} %}  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

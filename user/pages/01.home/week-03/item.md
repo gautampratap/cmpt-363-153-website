@@ -49,5 +49,3 @@ User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-re
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_user-research-formal')} %}
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_contextual-inquiry')} %}  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

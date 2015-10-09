@@ -41,5 +41,3 @@ TBD
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_mobile-and-multidevice-web-design')} %}  
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_responsive-web-design')} %}  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

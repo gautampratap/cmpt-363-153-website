@@ -44,5 +44,3 @@ The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-
 
 ###### Supplemental Readings
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_scenarios')} %}  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resource-collections).  

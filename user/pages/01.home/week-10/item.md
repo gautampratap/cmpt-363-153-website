@@ -45,5 +45,3 @@ TBD
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_layout')} %}  
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_typography')} %}  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

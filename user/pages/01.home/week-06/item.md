@@ -39,5 +39,3 @@ TBD
 
 ##### Supplemental Readings
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_conceptual-models')} %}  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  

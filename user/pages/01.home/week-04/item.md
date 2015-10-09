@@ -46,5 +46,3 @@ User Modeling and Stories of Usage ([HTML Slides](http://slides.com/paulhibbitts
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_job-stories')} %}  
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_personas')} %}  
-
-Still wanting more? Explore the [UX Techniques Guide](../../ux-techniques-guide) or the course [Resources](../../resources).  
