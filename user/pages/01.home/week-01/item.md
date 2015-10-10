@@ -38,7 +38,7 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-in
 ##### Supplemental Slides  
 [Interaction Design History](http://www.slideshare.net/mrettig/interaction-design-history)  
 <div class="row">
-  <div class="col s10">
+  <div class="col s11">
   <div class="video-container"><iframe src="//www.slideshare.net/slideshow/embed_code/key/aTtcFNn7i55UVK" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></div>
   </div>
 </div>
