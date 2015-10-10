@@ -22,7 +22,7 @@ published: true
 The Process of UX Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-the-process-of-ux-design) | [PDF Slides](http://1drv.ms/1V62zzx))  
 
 <div class="row">
-  <div class="col s10">
+  <div class="col s11">
   <div class="video-container"><iframe src="http://slid.es/paulhibbitts/cmpt-363-153-the-process-of-ux-design/embed?style=light" height="270" width="340" allowfullscreen="" frameborder="0" scrolling="no"></iframe></div>
   </div>
 </div>
