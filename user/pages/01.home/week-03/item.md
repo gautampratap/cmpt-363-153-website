@@ -30,7 +30,7 @@ User Research ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-re
 ##### Supplemental Video  
 [What People Are Really Doing Video](http://vimeo.com/album/169777/video/7099570)  
 <div class="row">
-  <div class="col s10">
+  <div class="col s11">
   <div class="video-container"><iframe src="https://player.vimeo.com/video/7099570" width="500" height="275" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
