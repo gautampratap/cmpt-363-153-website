@@ -51,6 +51,8 @@
 			<p>{{ content }}</p>
 			{% if not grav.uri.param('displaypagecontentonly') %}
 				<p>Still wanting more? Explore the <a href="../ux-techniques-guide">UX Techniques Guide</a> or the course <a href="../resources">Resources</a>.</p>
+			{% else %}
+				{# <p>Still wanting more? Explore the <a href="../ux-techniques-guide/displaypagecontentonly:true">UX Techniques Guide</a> or the course <a href="../resources/displaypagecontentonly:true">Resources</a>.</p> #}
 			{% endif %}
 			<p> &nbsp;</p>
 			{% set show_prev_next = true %}
