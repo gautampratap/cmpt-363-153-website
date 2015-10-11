@@ -23,8 +23,8 @@ published: true
 Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-course-overview#/) | [PDF Slides](http://1drv.ms/1NBerFr))  
 <div class="row">
   <div class="col s11">
-  <div class="video-container"><div onclick="thevid=document.getElementById('thevideo'); thevid.style.display='block'; this.style.display='none'"><img class="responsive-img" style="cursor: pointer; margin-top:-1.5em" src="../images/cmpt-363-153-course-overview.png" alt="" /></div>
-  <div id="thevideo" style="display: none;"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-course-overview/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div>
+  <div onclick="thevid=document.getElementById('thevideo'); thevid.style.display='block'; this.style.display='none'"><img class="responsive-img" style="cursor: pointer;" src="../images/cmpt-363-153-course-overview.png" alt="" /></div>
+  <div id="thevideo" style="display: none;"><div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-course-overview/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div>
   </div>
 </div>
 
