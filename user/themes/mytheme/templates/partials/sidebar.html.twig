@@ -1,4 +1,4 @@
-{% if not grav.uri.param('displaypagecontentonly') %}
+{% if not grav.uri.param('onlydisplaypagecontent') %}
   <div class="sidebar-content">
   {% include 'sidebar_content.html.twig' with {'page': page.find('/sidebar')} %}
 </div>

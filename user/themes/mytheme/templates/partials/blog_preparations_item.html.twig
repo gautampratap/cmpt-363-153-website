@@ -39,7 +39,7 @@
 			<a class="btn blue darken-2 newwindow" href={{ page.header.quiz.link }}>{{ page.header.quiz.text }}<i class="mdi mdi-arrow-right-bold-circle-outline right"></i> </a>
 		{% endif %}
 		<p>{{ page.content }}</p>
-		{% if not grav.uri.param('displaypagecontentonly') %}
+		{% if not grav.uri.param('onlydisplaypagecontent') %}
 			<div class="divider"></div>
 			{% if show_prev_next %}
 				<p>

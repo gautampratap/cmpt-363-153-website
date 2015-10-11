@@ -49,15 +49,15 @@
 			<h4><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</h4>
 			{% set content = page.content|slice(page.summary|length) %}
 			<p>{{ content }}</p>
-			{% if not grav.uri.param('displaypagecontentonly') %}
+			{% if not grav.uri.param('onlydisplaypagecontent') %}
 				<p>Still wanting more? Explore the <a href="../ux-techniques-guide">UX Techniques Guide</a> or the course <a href="../resources">Resources</a>.</p>
 			{% else %}
-				{# <p>Still wanting more? Explore the <a href="../ux-techniques-guide/displaypagecontentonly:true">UX Techniques Guide</a> or the course <a href="../resources/displaypagecontentonly:true">Resources</a>.</p> #}
+				{# <p>Still wanting more? Explore the <a href="../ux-techniques-guide/onlydisplaypagecontent:true">UX Techniques Guide</a> or the course <a href="../resources/displaypagecontentonly:true">Resources</a>.</p> #}
 			{% endif %}
 			<p> &nbsp;</p>
 			{% set show_prev_next = true %}
 		{% endif %}
-		{% if not grav.uri.param('displaypagecontentonly') %}
+		{% if not grav.uri.param('onlydisplaypagecontent') %}
 			<div class="divider"></div>
 			{% if show_prev_next %}
 				<p>

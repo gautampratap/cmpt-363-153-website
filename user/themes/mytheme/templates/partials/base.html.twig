@@ -58,7 +58,7 @@
 		ga('send', 'pageview');
 		</script>
 	</head>
-	{% if not grav.uri.param('displaypagecontentonly') %}
+	{% if not grav.uri.param('onlydisplaypagecontent') %}
 	<body class="{% block body_classes %}{{ page.header.body_classes }}{% endblock %}">
 		{% block header_navigation %}
 			{% include 'partials/navigation.html.twig' %}
@@ -66,7 +66,7 @@
 	{% endif %}
 	{% block content %}{% endblock %}
 	{% block pagination %}{% endblock %}
-	{% if not grav.uri.param('displaypagecontentonly') %}
+	{% if not grav.uri.param('onlydisplaypagecontent') %}
 		<footer class="page-footer">
 		<div class="footer-copyright">
 			<div class="container">
