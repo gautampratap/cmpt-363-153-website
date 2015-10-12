@@ -29,7 +29,7 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Empathy Map Template (PNG)](http://www.innovationlabs.org.uk/wp-content/uploads/2014/04/Empathy-Map-No-Stickies.png)
 
-##### <i class="mdi mdi-calendar"></i> Week 5 (Oct 12 - 18)
+##### [<i class="mdi mdi-calendar"></i> Week 5 (Oct 12 - 18)](/home/week-05)
 <strong>Thanksgiving, No Class</strong>
 
 ##### <i class="mdi mdi-calendar"></i> Week 6 (Oct 19 - 25)

@@ -21,5 +21,5 @@ Due to Thanksgiving Holiday there is no class on Monday. Want to get a head star
 <p><div style="margin-bottom: -3.1rem;">&nbsp;</div></p>
 <a class="btn blue darken-2 newwindow" href=https://canvas.sfu.ca/courses/22099/quizzes/28959>Required Reading Quiz<i class="mdi mdi-arrow-right-bold-circle-outline right"></i> </a>
 <p><div style="margin-bottom: -3.1rem;">&nbsp;</div></p>
-**Slides to be Presented**  
+**Slides to be Presented Oct 19th**  
 [Conceptual Models (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-conceptual-models#/)
