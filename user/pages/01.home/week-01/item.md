@@ -23,7 +23,7 @@ published: true
 Course Overview ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-course-overview#/) | [PDF Slides](http://1drv.ms/1NBerFr))  
 <div class="row">
   <div class="col s11">
-  <div class="video-container"><iframe style="visibility:hidden;" onload="this.style.visibility = 'visible';" src="//slides.com/paulhibbitts/cmpt-363-153-course-overview/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-course-overview/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 
@@ -31,7 +31,7 @@ Introduction to UX ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-in
 
 <div class="row">
   <div class="col s11">
-  <div class="video-container"><iframe style="visibility:hidden;" onload="this.style.visibility = 'visible';" src="//slides.com/paulhibbitts/cmpt-363-153-introduction-to-ux/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-introduction-to-ux/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 
