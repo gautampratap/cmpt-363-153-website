@@ -13,6 +13,9 @@ published: true
 ##### Presented Slides
 *   [User Modeling and Usage Stories Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-modeling-and-stories-of-usage#/)  
 
+##### Assignment Forms
+*   [Interview Consent Form (PDF)](http://1drv.ms/1L2NZCc)  
+
 ===
 
 ##### Summaries and Questions
