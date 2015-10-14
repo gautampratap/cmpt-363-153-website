@@ -1,7 +1,3 @@
-.list-blog-content td, th {
-    padding: 0px;
-}
-
 .pagination li.active {
   background-color: #8B0023 !important;
   color: #FFFFFF;
