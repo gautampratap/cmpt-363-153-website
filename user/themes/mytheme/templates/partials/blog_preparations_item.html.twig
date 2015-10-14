@@ -17,9 +17,11 @@
 						<td><h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
 							{% if page.header.reading.link %}
 								<p></p>
-								<p><strong>Required Reading</strong><br><a class="newwindow" href={{ page.header.reading.link }}> {{ page.header.reading.text }}</a></p>
+								<h5>Required Reading</h5>
+								<a class="newwindow" href={{ page.header.reading.link }}> {{ page.header.reading.text }}</a></p>
 								<p><div style="margin-bottom: -3.1rem;">&nbsp;</div></p>
 								<a class="btn blue darken-2 newwindow" href={{ page.header.quiz.link }}>{{ page.header.quiz.text }}<i class="mdi mdi-arrow-right-bold-circle-outline right"></i> </a>
+								<p><div style="margin-bottom: -4rem;">&nbsp;</div></p>
 							{% endif %}
 							<p>{{ page.content }}</p></td>
 					</tr>
@@ -48,9 +50,12 @@
 	<div class="list-blog-content">
 		{% if show_prev_next %}
 			{% if page.header.reading.link %}
-				<p><strong>Required Reading</strong><br><a class="newwindow" href={{ page.header.reading.link }}> {{ page.header.reading.text }}</a></p>
+				<p></p>
+				<h5>Required Reading</h5>
+				<a class="newwindow" href={{ page.header.reading.link }}> {{ page.header.reading.text }}</a></p>
 				<p><div style="margin-bottom: -3.1rem;">&nbsp;</div></p>
 				<a class="btn blue darken-2 newwindow" href={{ page.header.quiz.link }}>{{ page.header.quiz.text }}<i class="mdi mdi-arrow-right-bold-circle-outline right"></i> </a>
+				<p><div style="margin-bottom: -4rem;">&nbsp;</div></p>
 			{% endif %}
 			<p>{{ page.content }}</p>
 		{% endif %}
