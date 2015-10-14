@@ -11,22 +11,22 @@
 	<div class="container">
 		<div class="row">
 			{% if not grav.uri.param('onlydisplaypagecontent') %}
-        <div class="col s12 m8 l8 blog-main">
-      {% else %}
-        <div class="col s12 m12 offset-l1 l10 blog-main">
-      {% endif %}
-				{% if config.plugins.breadcrumbs.enabled %}
-					{% include 'partials/breadcrumbs.html.twig' %}
+				<div class="col s12 m8 l8 blog-main">
 				{% else %}
-					</br>
-				{% endif %}
-				{% set show_prev_next = true %}
-				{% include 'partials/blog_preparations_item.html.twig' with {'truncate':false,'big_header':true} %}
-			</div>
-			<div class="col s0 m4 l4 blog-sidebar">
-				{% include 'partials/sidebar.html.twig' %}
+					<div class="col s12 m12 offset-l1 l10 blog-main">
+					{% endif %}
+					{% if config.plugins.breadcrumbs.enabled %}
+						{% include 'partials/breadcrumbs.html.twig' %}
+					{% else %}
+						</br>
+					{% endif %}
+					{% set show_prev_next = true %}
+					{% include 'partials/blog_preparations_item.html.twig' with {'truncate':false,'big_header':true} %}
+				</div>
+				<div class="col s0 m4 l4 blog-sidebar">
+					{% include 'partials/sidebar.html.twig' %}
+				</div>
 			</div>
 		</div>
-	</div>
-{% endblock %}
+	{% endblock %}
 {% endembed %}

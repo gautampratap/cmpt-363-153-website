@@ -2,19 +2,19 @@
 	<div class="list-blog-header">
 		{% if page.header.link %}
 			{% if page.header.continue_link is not sameas(false) %}
-			<h4><a href="{{ page.url }}"><i class="mdi mdi-share"></i></a></h4>
+				<h4><a href="{{ page.url }}"><i class="mdi mdi-share"></i></a></h4>
 			{% endif %}
 			<h4><a href="{{ page.header.link }}">{{ page.title }}</a></h4>
 		{% else %}
 			{% if show_prev_next %}
 				<h4><i class="mdi mdi-{{ page.header.icon }}"></i> {{ page.title }}</h4>
 			{% else %}
-			<table width="100%" border="0">
-				<tbody>
-					<tr align="left">
-						<p><div style="margin-bottom: -4rem;">&nbsp;</div></p>
-						<td width="40px" style="vertical-align:top"><h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i></h4></a></td>
-						<td><h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
+				<table width="100%" border="0">
+					<tbody>
+						<tr align="left">
+							<p><div style="margin-bottom: -4rem;">&nbsp;</div></p>
+							<td width="40px" style="vertical-align:top"><h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i></h4></a></td>
+							<td><h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
 							{% if page.header.reading.link %}
 								<p></p>
 								<h5>Required Reading</h5>
@@ -24,8 +24,8 @@
 								<p><div style="margin-bottom: -4rem;">&nbsp;</div></p>
 							{% endif %}
 							<p>{{ page.content }}</p></td>
-					</tr>
-				</tbody>
+						</tr>
+					</tbody>
 				</table>
 			{% endif %}
 		{% endif %}
@@ -76,5 +76,5 @@
 				</p>
 			{% endif %}
 		</div>
-		{% endif %}
+	{% endif %}
 </div>

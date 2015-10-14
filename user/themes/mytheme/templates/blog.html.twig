@@ -14,47 +14,47 @@
 		<div class="row">
 			{% if not grav.uri.param('onlydisplaypagecontent') %}
 				<div class="col s12 m8 l8 blog-main">
-			{% else %}
-				<div class="col s12 m12 offset-l1 l10 blog-main">
-			{% endif %}
-				{% if config.plugins.breadcrumbs.enabled %}
-					{% include 'partials/breadcrumbs.html.twig' %}
 				{% else %}
-					</br>
-				{% endif %}
-				{% for module in page.collection('modular_content') %}
-					{% if module.raw|trim  %}
-						<p>{{ module.content }}</p>
+					<div class="col s12 m12 offset-l1 l10 blog-main">
 					{% endif %}
-				{% endfor %}
-				{% set preparations = taxonomy.findTaxonomy({'tag':'preparation'}).order(‘date’, ‘desc’) %}
-				{% if preparations and preparations|length > 0 and uri.currentPage == 1 %}
-					{% for child in preparations %}
-						{% include 'partials/blog_preparations_item.html.twig' with {'page':child, 'truncate':true} %}
+					{% if config.plugins.breadcrumbs.enabled %}
+						{% include 'partials/breadcrumbs.html.twig' %}
+					{% else %}
+						</br>
+					{% endif %}
+					{% for module in page.collection('modular_content') %}
+						{% if module.raw|trim  %}
+							<p>{{ module.content }}</p>
+						{% endif %}
 					{% endfor %}
-				{% endif %}
-				{% for child in collection %}
-					{% if "preparation" not in child.taxonomy['tag'] %}
-						 	{% include 'partials/blog_item.html.twig' with {'page':child, 'truncate':true} %}
+					{% set preparations = taxonomy.findTaxonomy({'tag':'preparation'}).order(‘date’, ‘desc’) %}
+					{% if preparations and preparations|length > 0 and uri.currentPage == 1 %}
+						{% for child in preparations %}
+							{% include 'partials/blog_preparations_item.html.twig' with {'page':child, 'truncate':true} %}
+						{% endfor %}
 					{% endif %}
-				{% endfor %}
-			</div>
-			<div class="col s0 m4 l4 blog-sidebar">
-				{% include 'partials/sidebar.html.twig' %}
-				{# {% include 'partials/sidebar_page.html.twig' with {'page':'sidebar', 'truncate':false} %} #}
-			</div>
-		</div>
-	</div>
-{% endblock %}
-{% block pagination %}
-	{% if config.plugins.pagination.enabled and collection.params.pagination %}
-		<div class="container">
-			<div class="row center-align">
-				<div class="col s12 m8 l8">
-					{% include 'partials/pagination.html.twig' with {'pagination':collection.params.pagination} %}
+					{% for child in collection %}
+						{% if "preparation" not in child.taxonomy['tag'] %}
+							{% include 'partials/blog_item.html.twig' with {'page':child, 'truncate':true} %}
+						{% endif %}
+					{% endfor %}
+				</div>
+				<div class="col s0 m4 l4 blog-sidebar">
+					{% include 'partials/sidebar.html.twig' %}
+					{# {% include 'partials/sidebar_page.html.twig' with {'page':'sidebar', 'truncate':false} %} #}
 				</div>
 			</div>
 		</div>
-	{% endif %}
-{% endblock %}
+	{% endblock %}
+	{% block pagination %}
+		{% if config.plugins.pagination.enabled and collection.params.pagination %}
+			<div class="container">
+				<div class="row center-align">
+					<div class="col s12 m8 l8">
+						{% include 'partials/pagination.html.twig' with {'pagination':collection.params.pagination} %}
+					</div>
+				</div>
+			</div>
+		{% endif %}
+	{% endblock %}
 {% endembed %}
