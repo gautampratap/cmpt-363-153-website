@@ -12,7 +12,7 @@
 	{# Removed display of page content #}
 	<div class="container">
 		<div class="row">
-			{% if not grav.uri.param('displaypagecontentonly') %}
+			{% if not grav.uri.param('onlydisplaypagecontent') %}
 				<div class="col s12 m8 l8 blog-main">
 			{% else %}
 				<div class="col s12 m12 offset-l1 l10 blog-main">

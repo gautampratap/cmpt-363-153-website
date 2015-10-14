@@ -65,9 +65,9 @@
 			{% set content = page.content|slice(page.summary|length) %}
 			<p>{{ content }}</p>
 			{% if not grav.uri.param('onlydisplaypagecontent') %}
-				<p>Still wanting more? Explore the <a href="../ux-techniques-guide">UX Techniques Guide</a> or the course <a href="../resources">Resources</a>.</p>
+		 		<p>Still wanting more? Explore the <a href="{{ page.find("/ux-techniques-guide").url }}">UX Techniques Guide</a> or the course <a href="{{ page.find("/resources").url }}">Resources</a>.</p>
 			{% else %}
-				{# <p>Still wanting more? Explore the <a href="../ux-techniques-guide/onlydisplaypagecontent:true">UX Techniques Guide</a> or the course <a href="../resources/displaypagecontentonly:true">Resources</a>.</p> #}
+				<p>Still wanting more? Explore the <a href="{{ page.find("/ux-techniques-guide").url }}/onlydisplaypagecontent:true">UX Techniques Guide</a> or the course <a href="{{ page.find("/resources").url }}/onlydisplaypagecontent:true">Resources</a>.</p>
 			{% endif %}
 			<p> &nbsp;</p>
 			{% set show_prev_next = true %}

@@ -1,6 +1,6 @@
 ---
 title: Oct 19th Class
-date: 10/13/2015
+date: 10/19/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
@@ -13,4 +13,8 @@ quiz:
 continue_link: false
 published: true
 ---
-After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382630) before midnight, October 19th.
+
+##### Slides to be Presented
+[Conceptual Models (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-conceptual-models#/)
+
+Weekly quizes are due by 10:00am the day of class. After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382630) before midnight, October 19th.

@@ -11,11 +11,11 @@
 {% block content %}
 	<div class="container">
 		<div class="row">
-			{% if not grav.uri.param('displaypagecontentonly') %}
-				<div class="col s12 m12 offset-l1 l10 blog-main">
-			{% else %}
-				<div class="col s12 m12 l12 blog-main">
-			{% endif %}
+			{% if not grav.uri.param('onlydisplaypagecontent') %}
+        <div class="col s12 m8 l8 blog-main">
+      {% else %}
+        <div class="col s12 m12 offset-l1 l10 blog-main">
+      {% endif %}
 				<div style="margin-bottom: -18px;">&nbsp;</div>
 				{{ page.content }}
 				<p>Know of a great resource item or collection to add? <a class="newwindow" href="https://github.com/paulhibbitts/cmpt-363-153-website/edit/master/user/pages/04.resources/resources.md">Edit this page on <i class="mdi mdi-github-circle"></i>GitHub</a></p>
