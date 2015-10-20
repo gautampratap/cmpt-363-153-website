@@ -1,20 +1,20 @@
 ---
-title: Oct 19th Class
-date: 10/19/2015
+title: Oct 26th Class
+date: 10/26/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: "https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962"
-  text: "Conceptual Models: Begin by Designing What to Design, ACM"
+  link: "http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface"
+  text: "The best interface is no interface"
 quiz:
-  link: "https://canvas.sfu.ca/courses/22099/quizzes/28959"
+  link: "https://canvas.sfu.ca/courses/22099/quizzes/28956"
   text: "Required Reading Quiz"
 continue_link: false
 published: true
 ---
 
 ##### Slides to be Presented
-[Conceptual Models (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-conceptual-models#/)
+[HCI and Interface Design Principles (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-hci-and-interface-design-principles#/)
 
-Weekly quizes are due by 10:00am the day of class. After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382630) before midnight, October 19th.
+After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382631) before midnight, October 26th.
