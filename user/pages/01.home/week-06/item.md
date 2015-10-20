@@ -13,6 +13,9 @@ published: true
 ##### Presented Slides
 *   [Conceptual Models](slides.com/paulhibbitts/cmpt-363-153-conceptual-models#/)  
 
+##### Assignment Forms
+*   [Assignment #3 Group Member Evaluations (PDF)](http://1drv.ms/1PwRkwd) 
+
 ===
 
 ##### Summaries and Questions
