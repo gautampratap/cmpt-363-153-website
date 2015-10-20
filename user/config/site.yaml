@@ -7,8 +7,10 @@ metadata:
 taxonomies: [category,tag,month]
 menu:
     - text: Stack Exchange UX
+      icon: stackoverflow
       url: https://ux.stackexchange.com/
     - text: myBalsamiq
+      icon: television-guide
       url: https://cmpt-363.mybalsamiq.com
 github:
     enabled: true
