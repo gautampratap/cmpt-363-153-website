@@ -11,7 +11,7 @@ published: false
 *   [Nov 9th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382633)
 
 ##### Presented Slides
-*   [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
+*   [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)  
 
 ===
 
@@ -19,11 +19,11 @@ published: false
 [Nov 9th Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382633)
 
 ##### Presented Slides  
-Mobile and Multi-device Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
+Mobile and Multi-device Design ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/) | [PDF Slides](http://1drv.ms/1S4EXGj))
 
 <div class="row">
   <div class="col s11">
-    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
     </div>
   </div>
 
@@ -31,9 +31,9 @@ Mobile and Multi-device Design ([HTML Slides](http://slides.com/paulhibbitts/cmp
 TBD
 
 ##### Required Reading  
-[Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)
+[Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
 <div class="row"> <div class="col s10">
-  <a class="embedly-card" data-card-align="left" href="http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html">Design for Every Screen</a>
+  <a class="embedly-card" data-card-align="left" href="http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155">Responsive Web Design</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></div></div>
 
 ##### Supplemental Readings

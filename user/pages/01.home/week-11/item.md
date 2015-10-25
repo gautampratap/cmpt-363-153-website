@@ -11,7 +11,7 @@ published: false
 *   [Nov 23rd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
 
 ##### Presented Slides
-*   [User Interface Inspections](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
+*   [User Interface Inspections](http://slides.com/paulhibbitts/cmpt-363-153-user-interface-inspections#/)  
 
 ===
 
@@ -19,11 +19,11 @@ published: false
 [Nov 23rd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382636)
 
 ##### Presented Slides  
-User Interface Inspections ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
+User Interface Inspections ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-user-interface-inspections#/) | [PDF Slides](http://1drv.ms/1N1dUM5))
 
 <div class="row">
   <div class="col s11">
-    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-user-interface-inspections/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
     </div>
   </div>
 

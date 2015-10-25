@@ -11,7 +11,7 @@ published: false
 *   [Nov 2nd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382632)
 
 ##### Presented Slides  
-*   [Usability Testing](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/)  
+*   [Usability Testing](http://slides.com/paulhibbitts/cmpt-363-153-usability-testing#/)  
 
 ===
 
@@ -19,11 +19,11 @@ published: false
 [Nov 2nd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382624)  
 
 ##### Presented Slides  
-Usability Testing ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-slides-in-progress#/) | [PDF Slides](http://1drv.ms/1TNqz4z))
+Usability Testing ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-usability-testing#/) | [PDF Slides](http://1drv.ms/1S4EUdC))
 
 <div class="row">
   <div class="col s11">
-    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-slides-in-progress/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-usability-testing/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
   </div>
 </div>
 
