@@ -45,12 +45,12 @@ title: Schedule
 
 ##### <i class="mdi mdi-calendar"></i> Week 8 (Nov 2 - 8)
 <strong>Visualize & Prototype II</strong>
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Nov 23
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Mobile and Multi-device Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
 
 ##### <i class="mdi mdi-calendar"></i> Week 9 (Nov 9 - 15)
 <strong>Evaluate & Refine I</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Nov 23
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Usability Testing (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-usability-testing#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
 
