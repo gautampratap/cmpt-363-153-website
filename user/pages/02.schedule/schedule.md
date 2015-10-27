@@ -38,21 +38,21 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Conceptual Models: Begin by Designing What to Design, ACM](https://login.proxy.lib.sfu.ca/login?url=http://dl.acm.org/citation.cfm?id=503355.503366&coll=DL&dl=ACM&CFID=521069893&CFTOKEN=17492962)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Assignment #3 Group Member Evaluations (PDF)](http://1drv.ms/1PwRkwd)  
 
-##### <i class="mdi mdi-calendar"></i> Week 7 (Oct 26 - Nov 1)
+##### [<i class="mdi mdi-calendar"></i> Week 7 (Oct 26 - Nov 1)](/home/week-06)
 <strong>Visualize & Prototype I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [HCI and Interface Design Principles (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-hci-and-interface-design-principles#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The best interface is no interface](http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface)
 
 ##### <i class="mdi mdi-calendar"></i> Week 8 (Nov 2 - 8)
+<strong>Visualize & Prototype II</strong>
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Mobile and Multi-device Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
+
+##### <i class="mdi mdi-calendar"></i> Week 9 (Nov 9 - 15)
 <strong>Evaluate & Refine I</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Nov 23
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Usability Testing (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-usability-testing#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
-
-##### <i class="mdi mdi-calendar"></i> Week 9 (Nov 9 - 15)
-<strong>Visualize & Prototype II</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Mobile and Multi-device Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
 
 ##### <i class="mdi mdi-calendar"></i> Week 10 (Nov 16 - 22)
 <strong>Visualize & Prototype III</strong>

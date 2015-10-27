@@ -3,4 +3,5 @@ title: Important Reminders
 published: true
 ---
 ###### Important Reminders  
-* [Assignment #3](https://canvas.sfu.ca/courses/22099/assignments/112758) (Needsfinding and Exploratory Sketches) is due **in class** by 5:30pm Oct 26th<br>
+* If you have not received your myBalsamiq invite by Oct 28th please contact [Paul](mailto:paulh@sfu.ca)
+* Please bring your most recent Assignment [#3](https://canvas.sfu.ca/courses/22099/assignments/112758)/[#4](https://canvas.sfu.ca/courses/22099/assignments/112759) sketches to our next class on Nov 2nd

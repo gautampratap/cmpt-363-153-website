@@ -1,20 +1,20 @@
 ---
-title: Oct 26th Class
-date: 10/26/2015
+title: Nov 2nd Class
+date: 11/02/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: "http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface"
-  text: "The best interface is no interface"
+  link: "http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155"
+  text: "Responsive Web Design"
 quiz:
-  link: "https://canvas.sfu.ca/courses/22099/quizzes/28956"
+  link: "https://canvas.sfu.ca/courses/22099/quizzes/28953"
   text: "Required Reading Quiz"
 continue_link: false
 published: true
 ---
 
 ##### Slides to be Presented
-[HCI and Interface Design Principles (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-hci-and-interface-design-principles#/)
+[Mobile and Multi-device Design (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
 
-After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382631) before midnight, October 26th.
+After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382632) before midnight, November 2nd.
