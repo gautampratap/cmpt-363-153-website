@@ -45,7 +45,7 @@ title: Schedule
 
 ##### [<i class="mdi mdi-calendar"></i> Week 8 (Nov 2 - 8)](/home/week-08)
 <strong>Visualize & Prototype II</strong>
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758) assigned, due Nov 23
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112759) assigned, due Nov 23
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
 
