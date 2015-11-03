@@ -13,4 +13,4 @@ quiz:
 continue_link: false
 published: true
 ---
-After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382636) before midnight, November 23rd.
+After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382636) before midnight, Nov 23rd.
