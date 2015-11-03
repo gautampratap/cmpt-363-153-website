@@ -45,3 +45,5 @@ Mobile and Multi-device Design ([HTML Slides](http://slides.com/paulhibbitts/cmp
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_mobile-and-multidevice-web-design')} %}  
 
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_responsive-web-design')} %}
+
+{% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_content-inventories')} %}
