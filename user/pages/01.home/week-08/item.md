@@ -13,6 +13,8 @@ published: true
 ##### Presented Slides  
 *   [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
 
+##### Assignment Forms
+*   [Usability Test Consent Form (PDF)](http://1drv.ms/1ktjtrg)  
 ===
 
 ##### Summaries and Questions  
@@ -30,7 +32,7 @@ Mobile and Multi-device Design ([HTML Slides](http://slides.com/paulhibbitts/cmp
 ##### Assignments  
 [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758)  
 [Usability Test Consent Form (PDF)](http://1drv.ms/1ktjtrg)  
-[Assignment #4 Group Member Evaluations (PDF)](http://1drv.ms/1MzHPpE) 
+[Assignment #4 Group Member Evaluations (PDF)](http://1drv.ms/1MzHPpE)
 
 ##### Handouts  
 [Touch Interaction Checklist (PDF)](http://1drv.ms/1M3fvN8)  
