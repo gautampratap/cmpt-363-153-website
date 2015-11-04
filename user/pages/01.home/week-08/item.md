@@ -11,10 +11,11 @@ published: true
 *   [Nov 2nd Class One-minute Summaries](https://canvas.sfu.ca/courses/22099/discussion_topics/382632)
 
 ##### Presented Slides  
-*   [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
+*   [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)  
 
 ##### Assignment Forms
 *   [Usability Test Consent Form (PDF)](http://1drv.ms/1ktjtrg)  
+
 ===
 
 ##### Summaries and Questions  
