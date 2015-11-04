@@ -29,6 +29,7 @@ Mobile and Multi-device Design ([HTML Slides](http://slides.com/paulhibbitts/cmp
 
 ##### Assignments  
 [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758)  
+[Assignment #4 Group Member Evaluations (PDF)](http://1drv.ms/1MzHPpE) 
 
 ##### Handouts  
 [Touch Interaction Checklist (PDF)](http://1drv.ms/1M3fvN8)  
