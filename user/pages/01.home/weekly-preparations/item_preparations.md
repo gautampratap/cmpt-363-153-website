@@ -13,4 +13,8 @@ quiz:
 continue_link: false
 published: true
 ---
+
+##### Slides to be Presented
+[Usability Testing (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-usability-testing#/)
+
 After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382633) before midnight, Nov 9th.
