@@ -1,20 +1,20 @@
 ---
-title: Nov 9th Class
-date: 11/09/2015
+title: Nov 16th Class
+date: 11/10/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: "http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/"
-  text: "The Art of Guerrilla Usability Testing"
+  link: "http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html"
+  text: "The Impact of Aesthetics on Attitudes Towards Websites"
 quiz:
-  link: "https://canvas.sfu.ca/courses/22099/quizzes/28955"
+  link: "https://canvas.sfu.ca/courses/22099/quizzes/28950"
   text: "Required Reading Quiz"
 continue_link: false
 published: true
 ---
 
 ##### Slides to be Presented
-[Usability Testing (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-usability-testing#/)
+[Visual Design Basics (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-visual-design-basics)
 
-After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382633) before midnight, Nov 9th.
+After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382635) before midnight, Nov 16th.

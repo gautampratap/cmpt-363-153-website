@@ -42,4 +42,6 @@ TBD
 ##### Supplemental Readings
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_usability-testing')} %}  
 
+{% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_usability-test-tasks')} %}
+
 {% include 'topic.html.twig' with {'page': page.find('/ux-techniques-guide/_usability-testing-informal')} %}
