@@ -27,9 +27,6 @@ Usability Testing ([HTML Slides](http://slides.com/paulhibbitts/cmpt-363-153-usa
   </div>
 </div>
 
-##### Handouts  
-TBD
-
 ##### Required Reading  
 [The Art of Guerrilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)  
 <div class="row">
