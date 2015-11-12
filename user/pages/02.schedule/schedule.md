@@ -48,9 +48,9 @@ title: Schedule
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-pencil"></i></span> [Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112759) assigned, due Nov 23
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Usability Test Consent Form (PDF)](http://1drv.ms/1ktjtrg)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Assignment #4 Group Member Evaluations (PDF)](http://1drv.ms/1MzHPpE)  
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-file-pdf"></i></span> [Assignment #4 Mockup Size Reference Sheets (PDFs)](http://1drv.ms/1QwoBra)  
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
-
 
 ##### [<i class="mdi mdi-calendar"></i> Week 9 (Nov 9 - 15)](/home/week-09)
 <strong>Evaluate & Refine I</strong>

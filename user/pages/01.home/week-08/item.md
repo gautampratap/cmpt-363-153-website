@@ -13,9 +13,9 @@ published: true
 ##### Presented Slides  
 *   [Mobile and Multi-device Design](http://slides.com/paulhibbitts/cmpt-363-153-mobile-and-multi-device-design#/)  
 
-##### Assignment Forms
+##### Assignment PDFs
 *   [Usability Test Consent Form (PDF)](http://1drv.ms/1ktjtrg)  
-
+*   [Mockup Size Reference Sheets (PDFs)](http://1drv.ms/1QwoBra)  
 ===
 
 ##### Summaries and Questions  
