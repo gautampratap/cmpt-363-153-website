@@ -30,9 +30,10 @@ title: Resources
 *   [Bright Ideas for User Experience Designers](http://www.userfocus.co.uk/ebooks/uxdesign.html)
 *   [The Fable of the User-Centered Designer](http://www.userfocus.co.uk/fable/)
 
-##### UX MOOCs
+##### UX Design MOOCs & Courses
 *   [Human-Computer Interaction | Coursera](https://www.coursera.org/course/hciucsd)
 *   [The Design of Everyday Things | Udacity](https://www.udacity.com/course/design101)
+*   [Rapid Wireframing: Finding the Right Product Design](https://www.skillshare.com/classes/design/Rapid-Wireframing-Finding-the-Right-Product-Design/1947996659)
 
 ##### UX Podcast Collections  
 *   [Design Critique: Products for People](http://designcritique.net/)
