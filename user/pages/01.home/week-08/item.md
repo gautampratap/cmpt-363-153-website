@@ -32,7 +32,7 @@ Mobile and Multi-device Design ([HTML Slides](http://slides.com/paulhibbitts/cmp
 </div>
 
 ##### Assignments  
-[Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112758)  
+[Mockups and Informal Usability Tests](https://canvas.sfu.ca/courses/22099/assignments/112759)  
 [Usability Test Consent Form (PDF)](http://1drv.ms/1ktjtrg)  
 [Mockup Size Reference Sheets (PDFs)](http://1drv.ms/1QwoBra)  
 [Assignment #4 Group Member Evaluations (PDF)](http://1drv.ms/1MzHPpE)
