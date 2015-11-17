@@ -4,7 +4,7 @@ date: 11/23/2015
 icon: calendar-blank
 process:
     twig: true
-published: false
+published: true
 ---
 
 ##### Summaries and Questions
@@ -26,9 +26,6 @@ User Interface Inspections ([HTML Slides](http://slides.com/paulhibbitts/cmpt-36
     <div class="video-container"><iframe src="//slides.com/paulhibbitts/cmpt-363-153-user-interface-inspections/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
     </div>
   </div>
-
-##### Handouts  
-TBD
 
 ##### Required Reading  
 [What You Really Get From a Heuristic Evaluation](https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation)
