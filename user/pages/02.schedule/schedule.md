@@ -60,7 +60,7 @@ title: Schedule
 ##### [<i class="mdi mdi-calendar"></i> Week 10 (Nov 16 - 22)](/home/week-10)
 <strong>Visualize & Prototype III</strong>
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> [Visual Design Basics](http://slides.com/paulhibbitts/cmpt-363-153-visual-design-basics#/)
-*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Essentials for Non-Designers (not available on-line)
+*   <span class="grey-text text-darken-2"><i class="mdi mdi-television"></i></span> Visual Design Essentials for Non-Designers (not shown, detailed assignment #4 Q&A instead)
 *   <span class="grey-text text-darken-2"><i class="mdi mdi-read"></i></span> [The Impact of Aesthetics on Attitudes Towards Websites](http://www.usability.gov/get-involved/blog/2009/07/aesthetics-and-attitude.html)
 
 ##### <i class="mdi mdi-calendar"></i> Week 11 (Nov 23 - 29)
