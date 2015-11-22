@@ -27,6 +27,9 @@ User Interface Inspections ([HTML Slides](http://slides.com/paulhibbitts/cmpt-36
     </div>
   </div>
 
+##### Handouts  
+[User Interface Inspections Activity (PDF)](http://1drv.ms/1YmUC7p)  
+
 ##### Required Reading  
 [What You Really Get From a Heuristic Evaluation](https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation)
 <div class="row"> <div class="col s10">
