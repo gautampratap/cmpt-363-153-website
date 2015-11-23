@@ -1,12 +1,12 @@
-Instructor
+**Instructor**  
 Paul Hibbitts (Email: paulh@sfu.ca, Twitter: @hibbittsdesign)
 In-person office hours Mondays 4:00pm - 5:15pm Room 2148 (reserve an appointment slot), and after class by appointment.
 
-Teaching Assistant
+**Teaching Assistant**  
 Warunika Ranaweera (Email: wranawee@sfu.ca)
 Our teaching assistant will not be holding regular office hours.
 
-Grading (tentative)
+**Grading (tentative)**  
 Individual (60%)
    Weekly Reading Quizzes: 10%
    UI Analysis (including required peer reviews): 15%
@@ -21,5 +21,5 @@ Reading quizzes must be submitted no later than 10:00am class day - no exception
 
 Students must attain an overall passing grade on the weighted average of exams in the course in order to obtain a clear pass (C or better).
 
-Required Textbook
+**Required Textbook**  
 Are you kidding me, in 2015? All required readings will be available on-line.
