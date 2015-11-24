@@ -1,20 +1,15 @@
 ---
-title: Nov 23rd Class
-date: 11/17/2015
+title: Nov 27th Instructor Meetings
+date: 11/24/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: "https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation"
-  text: "What You Really Get From a Heuristic Evaluation"
+  link: "http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/"
+  text: "How to Give and Receive Criticism"
 quiz:
-  link: "https://canvas.sfu.ca/courses/22099/quizzes/28958"
+  link: "https://canvas.sfu.ca/courses/22099/quizzes/28951"
   text: "Required Reading Quiz"
 continue_link: false
 published: true
 ---
-
-##### Slides to be Presented
-[User Interface Inspections (in progress)](http://slides.com/paulhibbitts/cmpt-363-153-user-interface-inspections)
-
-After attending this class, [share your one-minute summary](https://canvas.sfu.ca/courses/22099/discussion_topics/382636) before midnight, Nov 23rd.

@@ -5,7 +5,7 @@ icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: "https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluationg"
+  link: "https://uxmag.com/articles/what-you-really-get-from-a-heuristic-evaluation"
   text: "What You Really Get From a Heuristic Evaluation"
 quiz:
   link: "https://canvas.sfu.ca/courses/22099/quizzes/28958"

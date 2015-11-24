@@ -3,7 +3,7 @@ title: Week 12 (Nov 30 - Dec 6)
 date: 11/30/2015
 icon: calendar-blank
 continue_link: false
-published: false
+published: true
 ---
 
 No regular class (instructor design critique meetings).

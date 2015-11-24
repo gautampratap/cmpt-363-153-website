@@ -4,7 +4,7 @@ date: 11/23/2015
 icon: calendar-blank
 process:
     twig: true
-published: false
+published: true
 ---
 
 ##### Summaries and Questions
