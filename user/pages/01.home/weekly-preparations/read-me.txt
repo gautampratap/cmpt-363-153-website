@@ -1,0 +1,11 @@
+To have weekly preparations displayed in the proper sequence when using the 'Next' and 'Prev' buttons, ensure that the 'date:' field is also updated.
+
+If there is no weekly quiz, then update the following fields as shown below:
+quiz:
+  link:
+  text:
+
+If there is no weekly reading, then update the following fields as shown below:
+reading:
+  link: "http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/"
+  text: "How to Give and Receive Criticism"
