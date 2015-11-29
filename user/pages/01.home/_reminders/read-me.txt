@@ -1,0 +1,1 @@
+To have important reminders not displayed, delete the contents of the 'reminders_item.md' file.
