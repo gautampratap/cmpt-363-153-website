@@ -1,15 +1,19 @@
 ---
-title: Nov 27th Instructor Meetings
-date: 11/24/2015
+title: Dec 7th Class
+date: 12/07/2015
 icon: checkbox-marked-circle
 taxonomy:
   tag: [preparation]
 reading:
-  link: "http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/"
-  text: "How to Give and Receive Criticism"
+  link:
+  text:
 quiz:
-  link: "https://canvas.sfu.ca/courses/22099/quizzes/28951"
-  text: "Required Reading Quiz"
+  link:
+  text:
 continue_link: false
 published: true
 ---
+##### Required Reading
+None
+
+No regular class (UX field trip to [SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)). 
