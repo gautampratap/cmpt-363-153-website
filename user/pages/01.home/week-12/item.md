@@ -6,4 +6,4 @@ continue_link: false
 published: true
 ---
 
-No regular class (instructor design review meetings).
+Instructor design review meetings.
