@@ -34,7 +34,7 @@ ul {
     display: block;
   }
   footer.page-footer .footer-copyright {
-    height: 14rem!important;
+    height: 22rem!important;
   }
 }
 @media only screen and (min-width: 992px) {
@@ -43,7 +43,7 @@ ul {
     padding: 0px 15px 0px 0px;
   }
   footer.page-footer .footer-copyright {
-    height: 5rem!important;
+    height: 10rem!important;
   }
 }
 .footer-copyright .container a {
