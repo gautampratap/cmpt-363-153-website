@@ -15,5 +15,3 @@ published: true
 ---
 ##### Required Reading
 None
-
-No regular class (UX field trip to [SFU Burnaby](http://www.sfu.ca/campuses/burnaby.html)). 
