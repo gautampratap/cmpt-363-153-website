@@ -18,13 +18,12 @@ form:
               title: Summary
               underline: true
 
-
             header.summary.enabled:
               type: toggle
+              toggleable: true
               label: Summary
               highlight: 1
               options:
-                '': Global
                 1: Enabled
                 0: Disabled
 

@@ -1,8 +1,23 @@
+# 1.3.8
+## 11/14/2015
+
+1. [](#bugfix)
+  * Fixed blueprints to work with the Admin plug-n when creating new modular pages
+
+
+# 1.3.7
+## 09/01/2015
+
+1. [](#bugfix)
+  * Fixed pagination links in the pagination block at the bottom of blog pages
+
+
 # 1.3.6
 ## 08/08/2015
 
 1. [](#bugfix)
   * Fixed vertical alignment problems in buttons with icons
+
 
 # 1.3.5
 ## 05/01/2015

@@ -1,3 +1,15 @@
+# v1.2.6
+## 10/07/2015
+
+2. [](#improved)
+    * Added `active` class on active taxonomies
+
+# v1.2.5
+## 07/19/2015
+
+2. [](#improved)
+    * Set the taxonomy type from the taxonomy being passed in
+
 # v1.2.4
 ## 02/19/2015
 
@@ -20,7 +32,7 @@
 ## 01/07/2015
 
 1. [](#bugfix)
-    * Support for numeric taxonomy values 
+    * Support for numeric taxonomy values
 
 # v1.2.0
 ## 11/30/2014

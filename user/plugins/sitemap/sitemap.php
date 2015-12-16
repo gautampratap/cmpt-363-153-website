@@ -59,7 +59,7 @@ class SitemapPlugin extends Plugin
 
         /** @var Pages $pages */
         $pages = $this->grav['pages'];
-        $routes = $pages->routes();
+        $routes = array_unique($pages->routes());
         ksort($routes);
 
         $ignores = (array) $this->config->get('plugins.sitemap.ignores');
@@ -67,7 +67,7 @@ class SitemapPlugin extends Plugin
         foreach ($routes as $route => $path) {
             $page = $pages->get($path);
 
-            if ($page->routable() && !in_array($page->route(), $ignores)) {
+            if ($page->published() && $page->routable() && !in_array($page->route(), $ignores)) {
                 $entry = new SitemapEntry();
                 $entry->location = $page->permaLink();
                 $entry->lastmod = date('Y-m-d', $page->modified());
