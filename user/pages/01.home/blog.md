@@ -14,7 +14,7 @@ content:
   order:
         by: date
         dir: desc
-  limit: 14
+  limit: 10
   pagination: true
 
 
