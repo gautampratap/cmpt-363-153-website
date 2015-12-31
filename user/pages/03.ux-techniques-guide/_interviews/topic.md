@@ -7,4 +7,4 @@ A conversation where an interviewer asks a series of questions to one or more in
 *   [Conducting an Interview (PDF)](http://fbe.unimelb.edu.au/__data/assets/pdf_file/0010/756289/Conducting_an_Interview_v2.pdf)  
 *   [Interviewing Humans](http://alistapart.com/article/interviewing-humans)  
 *   [Six Steps to Better Interviews and Simplified Task Analysis](http://www.adaptivepath.com/ideas/six-steps-to-better-interviews-and-simplified-task-analysis/)  
-* *   [Uncovering user goals with the Episodic Interview](http://userfocus.co.uk/articles/uncovering-user-goals-with-the-episodic-interview.html)  
+*   [Uncovering user goals with the Episodic Interview](http://userfocus.co.uk/articles/uncovering-user-goals-with-the-episodic-interview.html)  
