@@ -1,17 +1,17 @@
 [
     {
         "name": "doctrine/cache",
-        "version": "v1.5.2",
-        "version_normalized": "1.5.2.0",
+        "version": "v1.5.4",
+        "version_normalized": "1.5.4.0",
         "source": {
             "type": "git",
             "url": "https://github.com/doctrine/cache.git",
-            "reference": "47c7128262da274f590ae6f86eb137a7a64e82af"
+            "reference": "47cdc76ceb95cc591d9c79a36dc3794975b5d136"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/doctrine/cache/zipball/47c7128262da274f590ae6f86eb137a7a64e82af",
-            "reference": "47c7128262da274f590ae6f86eb137a7a64e82af",
+            "url": "https://api.github.com/repos/doctrine/cache/zipball/47cdc76ceb95cc591d9c79a36dc3794975b5d136",
+            "reference": "47cdc76ceb95cc591d9c79a36dc3794975b5d136",
             "shasum": ""
         },
         "require": {
@@ -25,14 +25,14 @@
             "predis/predis": "~1.0",
             "satooshi/php-coveralls": "~0.6"
         },
-        "time": "2015-12-03 10:50:37",
+        "time": "2015-12-19 05:03:47",
         "type": "library",
         "extra": {
             "branch-alias": {
                 "dev-master": "1.5.x-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "Doctrine\\Common\\Cache\\": "lib/Doctrine/Common/Cache"
@@ -96,7 +96,7 @@
         },
         "time": "2015-09-22 21:04:13",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "files": [
                 "Source/UserAgentParser.php"
@@ -126,28 +126,27 @@
     },
     {
         "name": "erusev/parsedown",
-        "version": "1.6.0",
-        "version_normalized": "1.6.0.0",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
         "source": {
             "type": "git",
-            "url": "https://github.com/erusev/parsedown.git",
-            "reference": "3ebbd730b5c2cf5ce78bc1bf64071407fc6674b7"
+            "url": "https://github.com/getgrav/parsedown.git",
+            "reference": "e7443a2bd868e78946ae6a01a1b07d477ce6f4cc"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/erusev/parsedown/zipball/3ebbd730b5c2cf5ce78bc1bf64071407fc6674b7",
-            "reference": "3ebbd730b5c2cf5ce78bc1bf64071407fc6674b7",
+            "url": "https://api.github.com/repos/getgrav/parsedown/zipball/e7443a2bd868e78946ae6a01a1b07d477ce6f4cc",
+            "reference": "e7443a2bd868e78946ae6a01a1b07d477ce6f4cc",
             "shasum": ""
         },
-        "time": "2015-10-04 16:44:32",
+        "time": "2015-12-19 03:45:14",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "Parsedown": ""
             }
         },
-        "notification-url": "https://packagist.org/downloads/",
         "license": [
             "MIT"
         ],
@@ -163,7 +162,10 @@
         "keywords": [
             "markdown",
             "parser"
-        ]
+        ],
+        "support": {
+            "source": "https://github.com/getgrav/parsedown/tree/master"
+        }
     },
     {
         "name": "erusev/parsedown-extra",
@@ -185,7 +187,7 @@
         },
         "time": "2015-11-01 10:19:22",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "ParsedownExtra": ""
@@ -213,39 +215,44 @@
     },
     {
         "name": "filp/whoops",
-        "version": "1.1.10",
-        "version_normalized": "1.1.10.0",
+        "version": "2.0.0-alpha2",
+        "version_normalized": "2.0.0.0-alpha2",
         "source": {
             "type": "git",
             "url": "https://github.com/filp/whoops.git",
-            "reference": "72538eeb70bbfb11964412a3d098d109efd012f7"
+            "reference": "eb1ce6439db161a9f00cd57f33a9cfa1355229ec"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/filp/whoops/zipball/72538eeb70bbfb11964412a3d098d109efd012f7",
-            "reference": "72538eeb70bbfb11964412a3d098d109efd012f7",
+            "url": "https://api.github.com/repos/filp/whoops/zipball/eb1ce6439db161a9f00cd57f33a9cfa1355229ec",
+            "reference": "eb1ce6439db161a9f00cd57f33a9cfa1355229ec",
             "shasum": ""
         },
         "require": {
-            "php": ">=5.3.0"
+            "php": ">=5.5.9"
         },
         "require-dev": {
-            "mockery/mockery": "0.9.*"
+            "mockery/mockery": "0.9.*",
+            "phpunit/phpunit": "^4.8 || ^5.0"
         },
-        "time": "2015-06-29 05:42:04",
+        "suggest": {
+            "symfony/var-dumper": "Pretty print complex values better with var-dumper available",
+            "whoops/soap": "Formats errors as SOAP responses"
+        },
+        "time": "2015-12-15 12:27:17",
         "type": "library",
         "extra": {
             "branch-alias": {
-                "dev-master": "1.2-dev"
+                "dev-master": "2.0-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
-            "psr-0": {
-                "Whoops": "src/"
+            "psr-4": {
+                "Whoops\\": "src/Whoops/"
             },
-            "classmap": [
-                "src/deprecated"
+            "files": [
+                "src/Whoops/functions.php"
             ]
         },
         "notification-url": "https://packagist.org/downloads/",
@@ -266,7 +273,6 @@
             "exception",
             "handling",
             "library",
-            "silex-provider",
             "whoops",
             "zf2"
         ]
@@ -292,7 +298,7 @@
         },
         "time": "2014-09-24 11:23:30",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "Gregwar\\Cache": ""
@@ -342,7 +348,7 @@
         },
         "time": "2015-05-30 19:24:37",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "Gregwar\\Image": ""
@@ -391,7 +397,7 @@
                 "dev-master": "1.0-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "Symfony\\Polyfill\\Mbstring\\": ""
@@ -456,7 +462,7 @@
                 "dev-master": "2.8-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "files": [
                 "Resources/functions/dump.php"
@@ -506,7 +512,7 @@
         },
         "time": "2012-12-21 11:40:51",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "Psr\\Log\\": ""
@@ -564,7 +570,7 @@
                 "dev-master": "1.11-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "DebugBar\\": "src/DebugBar/"
@@ -646,7 +652,7 @@
                 "dev-master": "1.16.x-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "Monolog\\": "src/Monolog"
@@ -698,7 +704,7 @@
         },
         "time": "2014-10-30 22:58:02",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "classmap": [
                 "min/lib/"
@@ -743,7 +749,7 @@
                 "dev-master": "2.8-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "Symfony\\Component\\Yaml\\": ""
@@ -805,7 +811,7 @@
                 "dev-master": "2.8-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "Symfony\\Component\\EventDispatcher\\": ""
@@ -856,7 +862,7 @@
                 "dev-master": "3.0.x-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "Pimple": "src/"
@@ -899,7 +905,7 @@
         },
         "time": "2014-11-20 16:49:30",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "files": [
                 "lib/password.php"
@@ -950,7 +956,7 @@
         },
         "time": "2015-11-24 17:04:24",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "RocketTheme\\Toolbox\\ArrayTraits\\": "ArrayTraits/src",
@@ -1010,7 +1016,7 @@
                 "dev-master": "2.8-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "Symfony\\Component\\Console\\": ""
@@ -1061,7 +1067,7 @@
                 "dev-master": "1.0-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-4": {
                 "Symfony\\Polyfill\\Iconv\\": ""
@@ -1123,7 +1129,7 @@
                 "dev-master": "1.23-dev"
             }
         },
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "psr-0": {
                 "Twig_": "lib/"

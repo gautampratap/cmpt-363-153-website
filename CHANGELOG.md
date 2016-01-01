@@ -1,3 +1,38 @@
+# v1.0.6
+## 12/22/2015
+
+1. [](#new)
+    * Set minimum requirements to [PHP 5.5.9](http://bit.ly/1Jt9OXO) 
+    * Added `saveConfig` to Themes
+1. [](#improved)   
+    * Updated Whoops to new 2.0 version (PHP 7.0 compatbile)
+    * Moved sample web server configs into dedicated directory
+    * FastCGI will use Apache's `mod_deflate` if gzip turned off
+1. [](#bugfix)
+    * Fix broken media image operators
+    * Only call extra method of blueprints if blueprints exist
+    * Fix lang prefix in url twig variables #523
+    * Fix case insensitive HTTPS check #535
+    * Field field validation handles case `multiple` missing
+    
+# v1.0.5
+## 12/18/2015
+
+1. [](#new)
+    * Add ability to extend markdown with plugins
+    * Added support for plugins to have individual language files
+    * Added `7z` to media formats
+    * Use Grav's fork of Parsedown until PR is merged
+    * New function to persist plugin configuration to disk
+    * GPM `selfupgrade` will now check PHP version requirements
+1. [](#improved)   
+    * If the field allows multiple files, return array
+    * Handle non-array values in file validation
+1. [](#bugfix)
+    * Fix when looping `fields` param in a `list` field
+    * Properly convert commas to spaces for media attributes
+    * Forcing Travis VM to HI timezone to address future files in zip file
+
 # v1.0.4
 ## 12/12/2015
 
