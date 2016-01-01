@@ -52,7 +52,7 @@
 						<td width="40px" style="vertical-align:top"><h4><a href="{{ page.url }}"><i class="mdi mdi-{{ page.header.icon }}"></i></h4></a></td>
 						<td><h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
 						<p>{{ page.summary }}</p>
-						<p><a href="{{ page.url }}">View all Materials <i class="mdi mdi-chevron-double-right"></i></a></p><br></td>
+						<p><a href="{{ page.url }}">View all {{ page.title|slice(0, 7) }} Materials <i class="mdi mdi-chevron-double-right"></i></a></p><br></td>
 					</tr>
 				</tbody>
 			</table>
