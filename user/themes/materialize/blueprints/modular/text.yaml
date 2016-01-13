@@ -11,14 +11,9 @@ form:
               fields:
                 column1:
                   fields:
-                    name:
+                    type:
                       default: modular/text
                       @data-options: '\Grav\Common\Page\Pages::modularTypes'
-            overrides:
-              fields:
-                header.template:
-                  default: modular/text
-                  @data-options: '\Grav\Common\Page\Pages::modularTypes'
         content:
           fields:
             uploads:
